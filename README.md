@@ -1,7 +1,7 @@
 # ocf-etc
 
 This repo contains configuration files which are replicated to and
-automatically uptated on every OCF host at `/etc/ocf`. Configuration files are
+automatically updated on every OCF host at `/etc/ocf/`. Configuration files are
 written in YAML and have schemas defined in the `schemas` folder.
 
 To validate the files, simply run:
@@ -10,7 +10,7 @@ To validate the files, simply run:
 make
 ```
 
-Additionally, you can lint the Python `validate.py` by running `make test`.
+Additionally, you can lint the Python `validate.py` by running `make lint`.
 
 # Adding a new configuration file
 

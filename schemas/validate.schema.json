@@ -1,16 +1,19 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://ocf.berkeley.edu/schemas/hours.schema.json",
-
-    "type": "object",
-    "patternProperties": {
-        "": {
-            "type": "object",
-            "properties": {
-                "schema": { "type": "string" }
-            },
-            "required": ["schema"],
-            "additionalProperties": false
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/validate.schema.json",
+  "type": "object",
+  "patternProperties": {
+    "": {
+      "type": "object",
+      "properties": {
+        "schema": {
+          "type": "string"
         }
+      },
+      "required": [
+        "schema"
+      ],
+      "additionalProperties": false
     }
+  }
 }

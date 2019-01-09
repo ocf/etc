@@ -6,8 +6,12 @@ import yaml
 
 
 def validate(data_filename, schema_filename):
-    # Convert to and from JSON so we can turn date objects into strings
-    data = json.loads(json.dumps(yaml.load(open(data_filename)), default=str))
+    # PyYAML reads YAML date objects as Python date objects, which confuses
+    # jsonschema. To get around this, we convert the object to and from JSON,
+    # using the str function to convert the date objects to strings.
+    data = json.loads(
+        json.dumps(yaml.safe_load(open(data_filename)), default=str),
+    )
 
     schema = json.load(open(schema_filename))
 
@@ -15,18 +19,16 @@ def validate(data_filename, schema_filename):
 
 
 def main():
-    for shortname, metadata in yaml.load(open('validate.yaml')).items():
-        print(shortname + ' ... ', end='', flush=True)
+    for shortname, metadata in yaml.safe_load(open('validate.yaml')).items():
+        print(shortname + ' ... ', end='')
 
-        schema_filename = os.path.join(
-            'schemas', shortname + '.schema.json'
-        )
+        schema_filename = os.path.join('schemas', metadata['schema'])
 
         data_filename = shortname + '.yaml'
         try:
             validate(data_filename, schema_filename)
             print('OK')
-        except:  # noqa: E722
+        except Exception:
             print('FAIL')
             raise
 
