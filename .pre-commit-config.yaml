@@ -55,3 +55,9 @@ repos:
     hooks:
     -   id: remove-tabs
     -   id: remove-crlf
+-   repo: local
+    hooks:
+    -   id: validate-schemas
+        name: Validate JSON schema on configs
+        entry: make validate
+        language: system
