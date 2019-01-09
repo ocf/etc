@@ -1,62 +1,84 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://ocf.berkeley.edu/schemas/hours.schema.json",
-
-    "definitions": {
-        "time": {
-            "type": "string",
-            "pattern": "^[012]?[0-9]:[0-9][0-9]$"
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/hours.schema.json",
+  "definitions": {
+    "date": {
+      "type": "string",
+      "comment": "Further validation of date objects is done by ocflib"
+    },
+    "daterange": {
+      "type": "array",
+      "items": [
+        {
+          "$ref": "#/definitions/date"
         },
-        "timerange": {
-            "type": "array",
-            "items": [
-                { "$ref": "#/definitions/time" },
-                { "$ref": "#/definitions/time" }
-            ]
-        },
-
+        {
+          "$ref": "#/definitions/date"
+        }
+      ]
+    },
+    "holiday": {
+      "type": "object",
+      "properties": {
         "date": {
-            "type": "string",
-            "pattern": "^(2[0-9]{3}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9|3[01]))$"
-        },
-        "daterange": {
-            "type": "array",
-            "items": [
-                { "$ref": "#/definitions/date" },
-                { "$ref": "#/definitions/date" }
-            ]
-        },
-
-        "holiday": {
-            "type": "object",
-            "properties": {
-                "date": {
-                    "oneOf": [
-                        { "$ref": "#/definitions/date" },
-                        { "$ref": "#/definitions/daterange" }
-                    ]
-                },
-                "reason": { "type": "string" },
-                "hours": { "$ref": "#/definitions/timerange" }
+          "oneOf": [
+            {
+              "$ref": "#/definitions/date"
             },
-            "required": ["date", "reason"],
-            "additionalProperties": false
-        }
-    },
-
-    "type": "object",
-    "properties": {
-        "regular": {
-            "type": "array",
-            "minItems": 7,
-            "maxItems": 7,
-            "items": { "$ref": "#/definitions/timerange" }
+            {
+              "$ref": "#/definitions/daterange"
+            }
+          ]
         },
-        "holidays": {
-            "type": "array",
-            "items": { "$ref": "#/definitions/holiday" }
+        "hours": {
+          "$ref": "#/definitions/timerange"
+        },
+        "reason": {
+          "type": "string"
         }
+      },
+      "required": [
+        "date",
+        "reason"
+      ],
+      "additionalProperties": false
     },
-    "required": ["regular", "holidays"],
-    "additionalProperties": false
+    "time": {
+      "type": "string",
+      "pattern": "^[012]?[0-9]:[0-9][0-9]$"
+    },
+    "timerange": {
+      "type": "array",
+      "items": [
+        {
+          "$ref": "#/definitions/time"
+        },
+        {
+          "$ref": "#/definitions/time"
+        }
+      ]
+    }
+  },
+  "type": "object",
+  "properties": {
+    "holidays": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/holiday"
+      }
+    },
+    "regular": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/timerange"
+      },
+      "maxItems": 7,
+      "minItems": 7
+    }
+  },
+  "required": [
+    "regular",
+    "holidays"
+  ],
+  "additionalProperties": false
 }
