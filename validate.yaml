@@ -1,0 +1,5 @@
+hours:
+  schema: hours.schema.json
+
+validate:
+  schema: validate.schema.json
