@@ -1,0 +1,19 @@
+regular:
+  - ['9:00', '18:00']
+  - ['9:00', '20:00']
+  - ['9:00', '20:00']
+  - ['9:00', '20:00']
+  - ['9:00', '18:00']
+  - ['9:00', '20:00']
+  - ['9:00', '20:00']
+holidays:
+  - date: [2018-11-21, 2018-11-25]
+    reason: Thanksgiving Break
+  - date: 2018-12-03
+    reason: Late Lab Opening
+    hours: ['10:00', '18:00']
+  - date: 2018-12-14
+    reason: Last Day of Finals
+    hours: ['9:00', '14:00']
+  - date: [2018-12-15, 2019-01-14]
+    reason: Winter Break
