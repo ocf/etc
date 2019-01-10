@@ -12,6 +12,8 @@ venv: requirements.txt
 install-hooks: venv
 	$(BIN)/pre-commit install -f --install-hooks
 
+test: lint validate
+
 .PHONY: lint
 lint: venv
 	$(BIN)/pre-commit run --all-files
