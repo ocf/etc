@@ -59,5 +59,6 @@ repos:
     hooks:
     -   id: validate-schemas
         name: Validate JSON schema on configs
-        entry: make validate
-        language: system
+        entry: python validate.py
+        language: python
+        additional_dependencies: [jsonschema, pyyaml]
