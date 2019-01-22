@@ -21,6 +21,18 @@ pipeline {
         sh 'make test'
       }
     }
+
+    stage('deploy') {
+      when {
+        branch 'master'
+      }
+      agent {
+        label 'deploy'
+      }
+      steps {
+        puppetTrigger('puppet')
+      }
+    }
   }
 
   post {
