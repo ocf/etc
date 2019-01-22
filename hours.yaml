@@ -1,10 +1,17 @@
-regular: # Starts on Monday
+regular:
+  # Monday
   - ['9:00', '18:00']
+  # Tuesday
   - ['9:00', '20:00']
+  # Wednesday
   - ['9:00', '20:00']
+  # Thursday
   - ['9:00', '20:00']
+  # Friday
   - ['9:00', '18:00']
+  # Saturday
   - ['9:00', '20:00']
+  # Sunday
   - ['9:00', '20:00']
 holidays:
   - date: [2018-11-21, 2018-11-25]
