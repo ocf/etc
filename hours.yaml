@@ -12,7 +12,7 @@ regular:
   Saturday:
     - ['9:00', '20:00']
   Sunday:
-  - ['9:00', '20:00']
+    - ['9:00', '20:00']
 holidays:
   - date: [2018-11-21, 2018-11-25]
     reason: Thanksgiving Break
