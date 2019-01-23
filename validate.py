@@ -19,12 +19,13 @@ def validate(data_filename, schema_filename):
 
 
 def main():
-    for shortname, metadata in yaml.safe_load(open('validate.yaml')).items():
+    configs = yaml.safe_load(open('configs/validate.yaml')).items()
+    for shortname, metadata in configs:
         print(shortname + ' ... ', end='')
 
         schema_filename = os.path.join('schemas', metadata['schema'])
 
-        data_filename = shortname + '.yaml'
+        data_filename = os.path.join('configs', shortname + '.yaml')
         try:
             validate(data_filename, schema_filename)
             print('OK')
