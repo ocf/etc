@@ -28,6 +28,10 @@ holidays:
     reason: Winter Break
   - date: 2019-02-18
     reason: Presidents' Day
+  - date: 2019-02-19
+    reason: Early Lab Closure
+    hours:
+      - ['9:00', '18:00']
   - date: 2019-02-20
     reason: FAFSA/DREAM Act Workshop
     hours:
