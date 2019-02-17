@@ -27,7 +27,7 @@ holidays:
   - date: [2018-12-15, 2019-01-14]
     reason: Winter Break
   - date: 2019-02-16
-    reason: Staff Social
+    reason: Early Lab Closure
     hours:
       - ['9:00', '18:00']
   - date: 2019-02-18
