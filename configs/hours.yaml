@@ -26,6 +26,10 @@ holidays:
       - ['9:00', '14:00']
   - date: [2018-12-15, 2019-01-14]
     reason: Winter Break
+  - date: 2019-02-16
+    reason: Staff Social
+    hours:
+      - ['9:00', '18:00']
   - date: 2019-02-18
     reason: Presidents' Day
   - date: 2019-02-19
