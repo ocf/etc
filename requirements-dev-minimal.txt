@@ -1,0 +1,6 @@
+jsonschema
+ocflib
+pre-commit
+pyfakefs
+PyYAML
+requirements-tools
