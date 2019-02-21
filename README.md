@@ -10,12 +10,14 @@ To validate the files, simply run:
 make
 ```
 
-Additionally, you can lint the Python `validate.py` by running `make lint`.
-
 # Adding a new configuration file
 
 To add a new configuration file:
 
-* Create the data file (`yourconfig.yaml`).
-* Create the schema file (`schemas/yourconfig.schema.json`).
-* Add your file to `validate.yaml`, and associate it with its schema.
+1. Create the data file (`yourconfig.yaml`).
+2. Create the schema file (`schemas/yourconfig.schema.json`).
+3. Add your file to `validate.yaml`, and associate it with its schema.
+4. Commit changes to this repo
+5. Add ocflib functions to read your config file
+6. Add tests in this repo that ensure the ocflib functions won't throw
+   exceptions.
