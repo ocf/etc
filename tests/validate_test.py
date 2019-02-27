@@ -2,21 +2,16 @@ import json
 import os
 
 import jsonschema
-import pytest
 import yaml
-
-# Disable pyfakefs
-@pytest.fixture
-def etc():
-    pass
+from pyfakefs.fake_filesystem_unittest import Pause
 
 
-def test_validate():
-    configs = yaml.safe_load(open('configs/validate.yaml')).items()
+def test_validate(fs):
+    configs = yaml.safe_load(open('/etc/ocf/validate.yaml')).items()
 
     for shortname, metadata in configs:
         schema_filename = os.path.join('schemas', metadata['schema'])
-        config_filename = os.path.join('configs', shortname + '.yaml')
+        config_filename = os.path.join('/etc/ocf', shortname + '.yaml')
 
         # PyYAML reads YAML date objects as Python date objects, which confuses
         # jsonschema. To get around this, we convert the object to and from
@@ -25,6 +20,7 @@ def test_validate():
             json.dumps(yaml.safe_load(open(config_filename)), default=str),
         )
 
-        schema = json.load(open(schema_filename))
+        with Pause(fs):
+            schema = json.load(open(schema_filename))
 
         jsonschema.validate(config, schema)
