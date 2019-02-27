@@ -1,3 +1,4 @@
+/.cache
 /.tox
 /venv
 __pycache__/
