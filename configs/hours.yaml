@@ -45,6 +45,6 @@ holidays:
     hours:
       - ['9:00', '18:00']
   - date: 2019-03-19
-    reason: Cal VSA Resume Workshop
+    reason: Early Closure for Cal VSA Resume Workshop
     hours:
       - ['9:00', '19:00']
