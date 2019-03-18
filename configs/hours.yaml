@@ -37,15 +37,15 @@ holidays:
     hours:
       - ['9:00', '18:00']
   - date: 2019-02-20
-    reason: Early Lab Closure
+    reason: Early Lab Closure # FAFSA Workshop
     hours:
       - ['9:00', '18:00']
   - date: 2019-02-28
-    reason: Early Lab Closure
+    reason: Early Lab Closure # FAFSA Workshop
     hours:
       - ['9:00', '18:00']
   - date: 2019-03-19
-    reason: Cal VSA Resume Workshop
+    reason: Early Lab Closure # Cal VSA Resume Workshop
     hours:
       - ['9:00', '19:00']
   - date: [2019-03-23, 2019-03-31]
