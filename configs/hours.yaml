@@ -48,3 +48,5 @@ holidays:
     reason: Cal VSA Resume Workshop
     hours:
       - ['9:00', '19:00']
+  - date: [2019-03-23, 2019-03-31]
+    reason: Spring Break
