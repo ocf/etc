@@ -50,8 +50,8 @@ holidays:
       - ['9:00', '19:00']
   - date: [2019-03-23, 2019-03-31]
     reason: Spring Break
-  - date: 2019-05-24
-    reason: Early Lab Closure
+  - date: 2019-04-24
+    reason: Early Lab Closure # IST Open House
     hours:
       - ['9:00', '15:00']
       - ['18:00', '20:00']
