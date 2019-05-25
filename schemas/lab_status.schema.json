@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/lab-status.schema.json",
+  "type": "object",
+  "properties": {
+    "force_lab_closed": {
+      "type": "boolean"
+    },
+    "banner_visible": {
+      "type": "boolean"
+    },
+    "banner_html": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "force_lab_closed",
+    "banner_visible",
+    "banner_html"
+  ],
+  "additionalProperties": false
+}
