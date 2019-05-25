@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://ocf.berkeley.edu/schemas/lab-status.schema.json",
+  "$id": "https://ocf.berkeley.edu/schemas/lab_status.schema.json",
   "type": "object",
   "properties": {
     "force_lab_closed": {
