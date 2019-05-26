@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/staff_hours.schema.json",
+  "definitions": {
+    "time": {
+      "type": "string",
+      "pattern": "^[012]?[0-9]:[0-9][0-9]$"
+    },
+    "timerange": {
+      "type": "array",
+      "items": [
+        {
+          "$ref": "#/definitions/time"
+        },
+        {
+          "$ref": "#/definitions/time"
+        }
+      ]
+    },
+    "day": {
+      "type": "string",
+      "enum": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    "staff_hours_entry": {
+      "type": "object",
+      "properties": {
+        "day": {
+          "$ref": "#/definitions/day"
+        },
+        "time": {
+          "$ref": "#/definitions/timerange"
+        },
+        "staff": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "day",
+        "time",
+        "staff"
+      ],
+      "additionalProperties": false
+    },
+    "staff_position": {
+      "type": "object",
+      "properties": {
+        "username": {
+          "type": "string"
+        },
+        "position": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "username",
+        "position"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "type": "object",
+  "properties": {
+    "staff-hours": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/staff_hours_entry"
+      }
+    },
+    "staff-positions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/staff_position"
+      }
+    }
+  },
+  "required": [
+    "staff-hours",
+    "staff-positions"
+  ],
+  "additionalProperties": false
+}
