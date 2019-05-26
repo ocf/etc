@@ -1,3 +1,5 @@
+# Once this file is changed, you'll need to trigger a Puppet run on the
+# k8s workers (or whatever is running ocfweb) for the config to propagate to ocfweb.
 ---
 
 force_lab_closed: false
