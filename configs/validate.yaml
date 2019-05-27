@@ -4,5 +4,8 @@ hours:
 lab_status:
   schema: lab_status.schema.json
 
+staff_hours:
+  schema: staff_hours.schema.json
+
 validate:
   schema: validate.schema.json
