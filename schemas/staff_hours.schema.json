@@ -17,24 +17,9 @@
         }
       ]
     },
-    "day": {
-      "type": "string",
-      "enum": [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ]
-    },
     "staff_hours_entry": {
       "type": "object",
       "properties": {
-        "day": {
-          "$ref": "#/definitions/day"
-        },
         "time": {
           "$ref": "#/definitions/timerange"
         },
@@ -48,7 +33,6 @@
         }
       },
       "required": [
-        "day",
         "time",
         "staff"
       ],
@@ -74,10 +58,82 @@
   "type": "object",
   "properties": {
     "staff-hours": {
-      "type": "array",
-      "items": {
-        "$ref": "#/definitions/staff_hours_entry"
-      }
+      "type": "object",
+      "properties": {
+        "Monday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Tuesday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Wednesday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Thursday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Friday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Saturday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        },
+        "Sunday": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/staff_hours_entry"
+          }
+        }
+      },
+      "required": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "additionalProperties": false
     },
     "staff-positions": {
       "type": "array",
