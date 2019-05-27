@@ -1,0 +1,38 @@
+# Authoritative staff hours file.
+#
+# The online staff hours page is dynamically generated based on the
+# contents of this file.
+#
+# Be sure to use spaces instead of tabs for indentation of this file.
+#
+# An example staff hours entry looks like:
+#
+# staff-hours:
+#  Monday:
+#   - time: ['11:00', '13:00']
+#     staff: ["gstaff"]
+#  Tuesday:
+#  ...
+---
+
+staff-hours:
+  Monday:
+  Tuesday:
+  Wednesday:
+  Thursday:
+  Friday:
+  Saturday:
+  Sunday:
+
+staff-positions:
+ - username: "php"
+   position: "General Manager"
+ - username: "cooperc"
+   position: "General Manager"
+ - username: "fydai"
+   position: "Site Manager"
+ - username: "ethanhs"
+   position: "Site Manager"
+
+    # rootstaff can optionally label themselves as "technical managers" below:
+# vim: set expandtab:ts=4:sw=4
