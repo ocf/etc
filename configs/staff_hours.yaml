@@ -34,5 +34,4 @@ staff-positions:
  - username: "ethanhs"
    position: "Site Manager"
 
-    # rootstaff can optionally label themselves as "technical managers" below:
 # vim: set expandtab:ts=4:sw=4
