@@ -13,10 +13,15 @@
 #     staff: ["gstaff"]
 #  Tuesday:
 #  ...
+#
+# If you're modifying this file, if it passes the tests then you can just
+# merge the change on github without needing an approval.
 ---
 
 staff-hours:
   Monday:
+   - time: ['11:00', '11:00']
+     staff: ["gstaff"]
   Tuesday:
   Wednesday:
   Thursday:
