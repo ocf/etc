@@ -38,6 +38,15 @@
       ],
       "additionalProperties": false
     },
+    "staff_hours_entry_array": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "$ref": "#/definitions/staff_hours_entry"
+      }
+    },
     "staff_position": {
       "type": "object",
       "properties": {
@@ -61,67 +70,25 @@
       "type": "object",
       "properties": {
         "Monday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Tuesday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Wednesday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Thursday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Friday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Saturday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         },
         "Sunday": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "$ref": "#/definitions/staff_hours_entry"
-          }
+          "$ref": "#/definitions/staff_hours_entry_array"
         }
       },
       "required": [
