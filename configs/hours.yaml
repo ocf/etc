@@ -59,3 +59,7 @@ holidays:
     reason: Summer Break
   - date: 2019-09-02
     reason: Labor Day
+  - date: 2019-09-03
+    reason: Early Lab Closure # BoD moved from Labor Day to 9/3
+    hours:
+      - ['9:00', '19:00']
