@@ -63,3 +63,9 @@ holidays:
     reason: Early Lab Closure # BoD moved from Labor Day to 9/3
     hours:
       - ['9:00', '19:00']
+  - date: 2019-09-21
+    reason: Internal Event # OCF Hack Day
+  - date: 2019-09-25
+    reason: Early Lab Closure # Yelp talk
+    hours:
+      - ['9:00', '18:00']
