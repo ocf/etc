@@ -37,8 +37,7 @@
       },
       "required": [
         "time",
-        "staff",
-        "cancelled"
+        "staff"
       ],
       "additionalProperties": false
     },
