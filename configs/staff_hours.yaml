@@ -11,9 +11,13 @@
 #  Monday:
 #   - time: ['11:00', '13:00']
 #     staff: ["gstaff"]
-#     cancelled: false
 #  Tuesday:
+#   - time: ['10:00', '11:00']
+#     staff: ["bzh"]
+#     cancelled: true
 #  ...
+#
+# The `cancelled` field is optional, and defaults to false if not included.
 #
 # If you're modifying this file, if it passes the tests then you can just
 # merge the change on github without needing an approval.
@@ -23,7 +27,7 @@ staff-hours:
   Monday:
    - time: ['11:00', '11:00']
      staff: ["gstaff"]
-     cancelled: false
+     cancelled: true
   Tuesday:
   Wednesday:
   Thursday:
