@@ -11,6 +11,7 @@
 #  Monday:
 #   - time: ['11:00', '13:00']
 #     staff: ["gstaff"]
+#     cancelled: false
 #  Tuesday:
 #  ...
 #
@@ -22,6 +23,7 @@ staff-hours:
   Monday:
    - time: ['11:00', '11:00']
      staff: ["gstaff"]
+     cancelled: false
   Tuesday:
   Wednesday:
   Thursday:
