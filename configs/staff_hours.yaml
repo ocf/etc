@@ -25,13 +25,34 @@
 
 staff-hours:
   Monday:
-   - time: ['11:00', '11:00']
-     staff: ["gstaff"]
-     cancelled: true
+   - time: ['10:00', '12:00']
+     staff: ['cooperc']
+   - time: ['12:30', '14:30']
+     staff: ['wporr']
   Tuesday:
+   - time: ['9:00', '10:30']
+     staff: ['minos']
+   - time: ['12:30', '15:30']
+     staff: ['fydai']
+   - time: ['15:00', '16:00']
+     staff: ['php']
   Wednesday:
+   - time: ['11:00', '12:30']
+     staff: ['cooperc']
+   - time: ['15:00', '16:00']
+     staff: ['php']
+   - time: ['16:00', '17:00']
+     staff: ['gleeb']
   Thursday:
+   - time: ['9:00', '10:30']
+     staff: ['minos']
+   - time: ['12:00', '13:00']
+     staff: ['bzh']
   Friday:
+   - time: ['13:00', '14:00']
+     staff: ['ethanhs']
+   - time: ['14:00', '15:00']
+     staff: ['jaw']
   Saturday:
   Sunday:
 
