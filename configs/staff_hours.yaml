@@ -48,6 +48,8 @@ staff-hours:
      staff: ['minos']
    - time: ['12:00', '13:00']
      staff: ['bzh']
+   - time: ['13:00', '14:00']
+     staff: ['ethanhs']
   Friday:
    - time: ['13:00', '14:00']
      staff: ['ethanhs']
