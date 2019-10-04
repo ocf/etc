@@ -27,6 +27,7 @@ staff-hours:
   Monday:
    - time: ['10:00', '12:00']
      staff: ['cooperc']
+     cancelled: true
    - time: ['12:30', '14:30']
      staff: ['wporr']
    - time: ['16:00', '18:00']
@@ -41,6 +42,7 @@ staff-hours:
   Wednesday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
+     cancelled: true
    - time: ['15:00', '16:00']
      staff: ['php']
    - time: ['16:00', '17:00']
