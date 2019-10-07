@@ -25,6 +25,8 @@
 
 staff-hours:
   Monday:
+   - time: ['9:00', '11:00']
+     staff: ['minos']
    - time: ['10:00', '12:00']
      staff: ['cooperc']
      cancelled: true
