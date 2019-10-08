@@ -58,7 +58,7 @@ staff-hours:
      staff: ['ethanhs', 'kmo']
   Friday:
    - time: ['13:00', '14:00']
-     staff: ['ethanhs']
+     staff: ['ethanhs', 'bencuan']
    - time: ['14:00', '15:00']
      staff: ['jaw']
   Saturday:
