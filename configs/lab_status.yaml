@@ -11,11 +11,11 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">MLK Building Shutdown, Wednesday 10/09</h4>
+    <h4 id="banner-header">MLK Building Closure/Power Outage, Wednesday 10/09</h4>
     <p>
-        On Wednesday 10/09, MLK Student Union building will be closed in anticipation of PG&E Public Safety Power Shutdown. Therefore, OCF <b>will be closed</b> that day.
+        On Wednesday 10/09, MLK Student Union building will be closed in anticipation of PG&E Public Safety Power Shutdown. Therefore, OCF <b>will be closed</b> that day. We do not yet know whether we will be open on Thursday 10/10.
         <br /><br />
-        This OCF webpage may experience an outage. Status updates will be posted to our blog (<a href="https://status.ocf.berkeley.edu">status.ocf.berkeley.edu</a>) as necessary.
+        Because of the power outage, all OCF services will be unavailable, including this website. Status updates will be posted to our blog (<a href="https://status.ocf.berkeley.edu">status.ocf.berkeley.edu</a>) as necessary.
     </p>
   </div>
   <style>
