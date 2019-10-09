@@ -7,15 +7,15 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: false
+banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Group Account Password Resets Down</h4>
+    <h4 id="banner-header">MLK Building Shutdown, Wednesday 10/09</h4>
     <p>
-        Password resets through our website are currently <b>not available for group accounts</b>, due to problems with the university's Callink system. Individual account resets will also be slow to load (~20 seconds).
+        Due to the building shutdown, in anticipation of PG&E Public Safety Power Shutdown, OCF <b>will be closed Wednesday 10/09</b>.
         <br /><br />
-        Please send us an email at <a href="mailto:help@ocf.berkeley.edu">help@ocf.berkeley.edu</a> if you need help. Status updates will be posted to our blog (<a href="https://status.ocf.berkeley.edu">status.ocf.berkeley.edu</a>) as necessary.
+        Status updates will be posted to our blog (<a href="https://status.ocf.berkeley.edu">status.ocf.berkeley.edu</a>) as necessary.
     </p>
   </div>
   <style>
