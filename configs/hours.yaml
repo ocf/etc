@@ -71,3 +71,7 @@ holidays:
       - ['9:00', '18:00']
   - date: 2019-10-09
     reason: MLK Building Closure # Per campus announcement
+  - date: 2019-10-10
+    reason: Campus Power Outage # Per campus announcement
+  - date: 2019-10-11
+    reason: Campus Power Outage # Per campus announcement
