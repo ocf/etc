@@ -33,6 +33,7 @@ staff-hours:
      staff: ['wporr']
    - time: ['13:00', '14:00']
      staff: ['shmaeng']
+     cancelled: true
    - time: ['16:00', '18:00']
      staff: ['gundralaa', 'snarain']
   Tuesday:
