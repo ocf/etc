@@ -75,3 +75,7 @@ holidays:
     reason: Campus Power Outage # Per campus announcement
   - date: 2019-10-11
     reason: Campus Power Outage # Per campus announcement
+  - date: 2019-10-16
+    reason: Early Lab Closure # Facebook Talk
+    hours:
+      - ['9:00', '18:00']
