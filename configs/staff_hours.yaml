@@ -41,12 +41,12 @@ staff-hours:
      staff: ['minos']
    - time: ['12:30', '15:30']
      staff: ['fydai']
-   - time: ['15:00', '16:00']
+   - time: ['14:00', '16:00']
      staff: ['php']
   Wednesday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
-   - time: ['15:00', '16:00']
+   - time: ['14:00', '16:00']
      staff: ['php']
    - time: ['16:00', '17:00']
      staff: ['gleeb']
@@ -64,7 +64,12 @@ staff-hours:
      staff: ['ethanhs', 'bencuan']
    - time: ['14:00', '15:00']
      staff: ['jaw']
+   - time: ['14:00', '16:00']
+     staff: ['php']
   Saturday:
+   - time: ['14:00', '16:00']
+     staff: ['php']
+     cancelled: true
   Sunday:
 
 staff-positions:
