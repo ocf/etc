@@ -62,6 +62,7 @@ staff-hours:
      staff: ['vio']
    - time: ['18:30', '20:00']
      staff: ['andylo']
+     cancelled: true
   Friday:
    - time: ['13:00', '14:00']
      staff: ['ethanhs', 'bencuan']
