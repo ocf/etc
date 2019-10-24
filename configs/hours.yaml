@@ -79,3 +79,7 @@ holidays:
     reason: Early Lab Closure # Facebook Talk
     hours:
       - ['9:00', '18:00']
+  - date: 2019-10-23
+    reason: Early Lab Closure # Nefeli Talk
+    hours:
+      - ['9:00', '18:00']
