@@ -7,15 +7,15 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: false
+banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">MLK Building Closure/Campus Power Outage, Friday 10/11</h4>
+    <h4 id="banner-header">Planned Campus Power Outage</h4>
     <p>
-        On Friday 10/11 afternoon, power was restored to MLK Student Union building. However, OCF will remain closed for the remainder of the day. We will resume our normal hours starting Saturday, 10/12.
-        <br /><br />
-        At this point, all services should be restored. If you are experiencing problems, please <a href="https://www.ocf.berkeley.edu/docs/contact/">contact us</a>. Also, if you sent us any email during the outage, you may want to resend it, as our email servers were offline.
+      Campus is currently expecting to be affected by a PG&amp;E Public Safety Power Shutoff starting the evening of Saturday, October 26. If campus is affected, the OCF will be closed.
+      <br /><br />
+      Because of the power outage, all OCF services may be unavailable, including this website. Please refer to our <a href="https://status.ocf.berkeley.edu">status</a> blog for more information during the outage. We will be providing info on that site as we receive it.
     </p>
   </div>
   <style>
