@@ -73,7 +73,6 @@ staff-hours:
   Saturday:
    - time: ['14:00', '16:00']
      staff: ['php']
-     cancelled: true
   Sunday:
 
 staff-positions:
