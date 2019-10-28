@@ -13,9 +13,9 @@ banner_html: |
   <div class="update-banner" id="banner">
     <h4 id="banner-header">Planned Campus Power Outage</h4>
     <p>
-      The OCF will be closed all day tomorrow Saturday, October 26 &amp; Sunday, October 27 due to campus closure for the upcoming PG&amp;E Public Safety Power Shutoff. We will remain closed during the outage, and will post updates about Monday as more information becomes available.
+      The OCF is closed Monday, October 28 all day due to campus closure for the PG&amp;E Public Safety Power Shutoff. We will remain closed throughout the outage.
       <br /><br />
-      Because of the power outage, all OCF services may be unavailable, including this website. Please refer to our <a href="https://status.ocf.berkeley.edu">status blog</a> for more information during the outage. We will be providing info on that site as we receive it.
+      At this point, most other OCF services are expected to remain available throughout the outage, including webhosting and mail. Please refer to our <a href="https://status.ocf.berkeley.edu">status blog</a> for more information during the outage. We will be providing info on that site as we receive it.
     </p>
   </div>
   <style>
