@@ -85,3 +85,5 @@ holidays:
       - ['9:00', '18:00']
   - date: [2019-10-26, 2019-10-27]
     reason: Campus Power Outage # Per campus announcement
+  - date: 2019-10-28
+    reason: Campus Power Outage # Per campus announcement
