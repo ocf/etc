@@ -41,7 +41,6 @@ staff-hours:
      staff: ['minos']
    - time: ['12:30', '15:30']
      staff: ['fydai']
-     cancelled: true
    - time: ['14:00', '16:00']
      staff: ['php']
   Wednesday:
