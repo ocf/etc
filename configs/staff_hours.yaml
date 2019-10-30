@@ -48,6 +48,8 @@ staff-hours:
      staff: ['cooperc']
    - time: ['14:00', '16:00']
      staff: ['php']
+   - time: ['15:00', '18:00']
+     staff: ['snarain']
    - time: ['16:00', '17:00']
      staff: ['gleeb']
   Thursday:
