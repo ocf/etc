@@ -29,6 +29,7 @@ staff-hours:
      staff: ['minos']
    - time: ['10:00', '12:00']
      staff: ['cooperc']
+     cancelled: true
    - time: ['12:30', '14:30']
      staff: ['wporr']
    - time: ['13:00', '14:00']
