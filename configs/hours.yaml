@@ -87,3 +87,5 @@ holidays:
     reason: Campus Power Outage # Per campus announcement
   - date: 2019-10-28
     reason: Campus Power Outage # Per campus announcement
+  - date: 2019-11-11
+    reason: "Veterans' Day"
