@@ -89,3 +89,9 @@ holidays:
     reason: Campus Power Outage # Per campus announcement
   - date: 2019-11-11
     reason: Veterans Day
+  - date: [2019-11-27, 2019-12-01]
+    reason: Thanksgiving Break
+  - date: 2019-12-04
+    reason: Early Lab Closure # Security talk
+    hours:
+      - ['9:00', '18:00']
