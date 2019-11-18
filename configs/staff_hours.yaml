@@ -59,13 +59,13 @@ staff-hours:
      staff: ['bzh']
      cancelled: true
    - time: ['13:00', '14:00']
-     staff: ['ethanhs', 'kmo']
+     staff: ['kmo']
    - time: ['18:30', '20:00']
      staff: ['andylo']
      cancelled: true
   Friday:
    - time: ['13:00', '14:00']
-     staff: ['ethanhs', 'bencuan']
+     staff: ['bencuan']
    - time: ['14:00', '15:00']
      staff: ['jaw']
    - time: ['14:00', '16:00']
