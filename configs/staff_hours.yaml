@@ -40,6 +40,7 @@ staff-hours:
   Tuesday:
    - time: ['9:00', '10:30']
      staff: ['minos']
+     cancelled: true
    - time: ['12:30', '15:30']
      staff: ['fydai']
    - time: ['14:00', '16:00']
@@ -57,6 +58,7 @@ staff-hours:
   Thursday:
    - time: ['9:00', '10:30']
      staff: ['minos']
+     cancelled: true
    - time: ['12:00', '13:00']
      staff: ['bzh']
      cancelled: true
