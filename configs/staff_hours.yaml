@@ -65,7 +65,7 @@ staff-hours:
    - time: ['12:00', '13:00']
      staff: ['bzh']
      cancelled: true
-   - time: ['13:00', '14:00']
+   - time: ['14:00', '16:00']
      staff: ['kmo']
    - time: ['18:30', '20:00']
      staff: ['andylo']
