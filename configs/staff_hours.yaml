@@ -39,7 +39,6 @@ staff-hours:
      staff: ['gundralaa']
    - time: ['16:00', '18:00']
      staff: ['snarain']
-     cancelled: true
   Tuesday:
    - time: ['9:00', '10:30']
      staff: ['minos']
