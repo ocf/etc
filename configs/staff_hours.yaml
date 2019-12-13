@@ -74,6 +74,7 @@ staff-hours:
      staff: ['bencuan']
    - time: ['14:00', '15:00']
      staff: ['jaw']
+     cancelled: true
    - time: ['14:00', '16:00']
      staff: ['php']
   Saturday:
