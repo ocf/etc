@@ -57,6 +57,7 @@ staff-hours:
      cancelled: true
    - time: ['15:00', '18:00']
      staff: ['snarain']
+     cancelled: true
    - time: ['16:00', '17:00']
      staff: ['gleeb']
   Thursday:
