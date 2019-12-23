@@ -95,3 +95,5 @@ holidays:
     reason: Early Lab Closure # Security talk
     hours:
       - ['9:00', '18:00']
+  - date: [2019-12-21, 2019-01-20]
+    reason: Winter Break
