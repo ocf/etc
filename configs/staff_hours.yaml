@@ -25,73 +25,27 @@
 
 staff-hours:
   Monday:
-   - time: ['9:00', '11:00']
-     staff: ['minos']
-   - time: ['10:00', '12:00']
+   - time: ['11:00', '13:00']
      staff: ['cooperc']
-     cancelled: true
-   - time: ['12:30', '14:30']
-     staff: ['wporr']
-   - time: ['13:00', '14:00']
-     staff: ['shmaeng']
-     cancelled: true
-   - time: ['16:00', '18:00']
-     staff: ['gundralaa']
-   - time: ['16:00', '18:00']
-     staff: ['snarain']
-     cancelled: true
   Tuesday:
-   - time: ['9:00', '10:30']
-     staff: ['minos']
-   - time: ['12:30', '15:30']
-     staff: ['fydai']
-   - time: ['14:00', '16:00']
-     staff: ['php']
-     cancelled: true
   Wednesday:
-   - time: ['11:00', '12:30']
+   - time: ['11:00', '13:00']
      staff: ['cooperc']
-     cancelled: true
-   - time: ['14:00', '16:00']
-     staff: ['php']
-     cancelled: true
-   - time: ['15:00', '18:00']
-     staff: ['snarain']
-     cancelled: true
-   - time: ['16:00', '17:00']
-     staff: ['gleeb']
   Thursday:
-   - time: ['9:00', '10:30']
-     staff: ['minos']
-   - time: ['12:00', '13:00']
-     staff: ['bzh']
-     cancelled: true
-   - time: ['14:00', '16:00']
-     staff: ['kmo']
-   - time: ['18:30', '20:00']
-     staff: ['andylo']
-     cancelled: true
   Friday:
-   - time: ['12:00', '13:00']
-     staff: ['bencuan']
-   - time: ['14:00', '15:00']
-     staff: ['jaw']
-     cancelled: true
-   - time: ['14:00', '16:00']
-     staff: ['php']
+   - time: ['11:00', '13:00']
+     staff: ['cooperc']
   Saturday:
-   - time: ['14:00', '16:00']
-     staff: ['php']
   Sunday:
 
 staff-positions:
- - username: "php"
+ - username: "dphan"
+   position: "General Manager"
+ - username: "bernardzhao"
    position: "General Manager"
  - username: "cooperc"
-   position: "General Manager"
- - username: "fydai"
    position: "Site Manager"
- - username: "ethanhs"
+ - username: "jaw"
    position: "Site Manager"
 
 # vim: set expandtab:ts=4:sw=4
