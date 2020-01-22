@@ -25,11 +25,11 @@
 
 staff-hours:
   Monday:
-   - time: ['11:00', '13:00']
+   - time: ['11:00', '12:30']
      staff: ['cooperc']
   Tuesday:
   Wednesday:
-   - time: ['11:00', '13:00']
+   - time: ['11:00', '12:30']
      staff: ['cooperc']
   Thursday:
    - time: ['14:30', '16:30']
