@@ -37,6 +37,8 @@ staff-hours:
   Friday:
    - time: ['11:00', '13:00']
      staff: ['cooperc']
+   - time: ['16:00', '17:00']
+     staff: ['bernardzhao']
   Saturday:
   Sunday:
 
