@@ -28,6 +28,8 @@ staff-hours:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
      cancelled: true
+   - time: ['14:00', '17:00']
+     staff: ['kmo']
   Tuesday:
   Wednesday:
    - time: ['11:00', '12:30']
@@ -38,6 +40,8 @@ staff-hours:
   Friday:
    - time: ['11:00', '13:00']
      staff: ['cooperc']
+   - time: ['12:00', '16:00']
+     staff: ['kmo']
    - time: ['16:00', '17:00']
      staff: ['bernardzhao']
   Saturday:
