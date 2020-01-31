@@ -44,6 +44,7 @@ staff-hours:
      staff: ['cooperc']
    - time: ['12:00', '16:00']
      staff: ['kmo']
+     cancelled: true
    - time: ['16:00', '17:00']
      staff: ['bernardzhao']
   Saturday:
