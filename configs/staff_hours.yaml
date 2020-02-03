@@ -31,12 +31,16 @@ staff-hours:
    - time: ['14:00', '17:00']
      staff: ['kmo']
   Tuesday:
+    - time: ['14:00', '15:50']
+      staff: ['fydai']
   Wednesday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
    - time: ['10:00', '12:00']
      staff: ['jaw']
   Thursday:
+    - time: ['14:00', '15:50']
+      staff: ['fydai']
    - time: ['14:30', '16:30']
      staff: ['jaw']
   Friday:
