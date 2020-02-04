@@ -43,7 +43,7 @@ staff-hours:
    - time: ['14:30', '16:30']
      staff: ['jaw']
   Friday:
-   - time: ['11:00', '13:00']
+   - time: ['12:30', '14:00']
      staff: ['cooperc']
    - time: ['12:00', '16:00']
      staff: ['kmo']
