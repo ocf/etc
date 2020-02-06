@@ -27,7 +27,7 @@ staff-hours:
   Monday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
-   - time: ['14:00', '17:00']
+   - time: ['14:30', '17:00']
      staff: ['kmo']
   Tuesday:
    - time: ['14:00', '15:50']
@@ -45,7 +45,7 @@ staff-hours:
   Friday:
    - time: ['12:30', '14:00']
      staff: ['cooperc', 'ahujaabhik']
-   - time: ['12:00', '16:00']
+   - time: ['14:00', '16:00']
      staff: ['kmo']
    - time: ['16:00', '17:00']
      staff: ['bernardzhao', 'wqnguyen']
