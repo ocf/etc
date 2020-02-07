@@ -97,3 +97,7 @@ holidays:
       - ['9:00', '18:00']
   - date: [2019-12-21, 2020-01-20]
     reason: Winter Break
+  - date: 2020-02-08
+    reason: Early Lab Closure # HackDay
+    hours:
+      - ['9:00', '14:00']
