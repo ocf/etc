@@ -101,3 +101,8 @@ holidays:
     reason: Early Lab Closure # HackDay
     hours:
       - ['9:00', '14:00']
+  - date: 2020-02-09
+    reason: Afternoon Closure # no front desk staff
+    hours:
+      - ['9:00', '15:00']
+      - ['18:00', '20:00']
