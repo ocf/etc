@@ -106,3 +106,5 @@ holidays:
     hours:
       - ['9:00', '15:00']
       - ['18:00', '20:00']
+  - date: 2020-02-17
+    reason: Presidents' Day
