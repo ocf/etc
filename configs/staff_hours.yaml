@@ -40,7 +40,7 @@ staff-hours:
   Thursday:
    - time: ['14:00', '15:50']
      staff: ['fydai']
-   - time: ['14:30', '16:30']
+   - time: ['14:30', '15:00'] # shorter this week
      staff: ['jaw']
   Friday:
    - time: ['12:30', '14:00']
