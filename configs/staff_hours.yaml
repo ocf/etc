@@ -29,6 +29,8 @@ staff-hours:
      staff: ['cooperc']
    - time: ['14:30', '17:00']
      staff: ['kmo']
+   - time: ['16:00', '18:00']
+     staff: ['snarain']
   Tuesday:
    - time: ['14:00', '15:50']
      staff: ['fydai']
@@ -42,8 +44,6 @@ staff-hours:
      staff: ['fydai']
    - time: ['14:30', '15:00'] # shorter this week
      staff: ['jaw']
-   - time: ['15:00', '17:00']
-     staff: ['snarain']
   Friday:
    - time: ['12:30', '14:00']
      staff: ['cooperc', 'ahujaabhik']
