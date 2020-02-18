@@ -27,8 +27,6 @@ staff-hours:
   Monday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
-   - time: ['14:30', '17:00']
-     staff: ['kmo']
    - time: ['16:00', '18:00']
      staff: ['snarain']
   Tuesday:
