@@ -28,7 +28,7 @@ staff-hours:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
      cancelled: true
-   - time: ['16:00', '18:00']
+   - time: ['17:00', '18:00']
      staff: ['snarain']
   Tuesday:
    - time: ['14:00', '15:50']
@@ -39,6 +39,8 @@ staff-hours:
      staff: ['cooperc']
    - time: ['10:00', '12:00']
      staff: ['jaw']
+   - time: ['17:00', '18:00']
+     staff: ['snarain']
   Thursday:
    - time: ['14:00', '15:50']
      staff: ['fydai']
