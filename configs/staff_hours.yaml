@@ -53,6 +53,7 @@ staff-hours:
      cancelled: true
    - time: ['14:00', '16:00']
      staff: ['kmo']
+     cancelled: true
    - time: ['16:00', '17:00']
      staff: ['bernardzhao', 'wqnguyen']
   Saturday:
