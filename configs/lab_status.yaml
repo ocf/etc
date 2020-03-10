@@ -11,11 +11,11 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Planned Campus Power Outage</h4>
+    <h4 id="banner-header">Extended Closure Notice</h4>
     <p>
       The OCF will be closed to take preventative measures against COVID-19.
       <br /><br />
-      At this point, most other OCF services are expected to remain available throughout the closure, including webhosting and mail. We will be providing info as the situation changes.
+      Most other OCF services are expected to remain available throughout the closure, including webhosting and mail. We will be providing info as the situation changes.
     </p>
   </div>
   <style>
