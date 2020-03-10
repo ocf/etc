@@ -7,15 +7,15 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: false
+banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Planned Campus Power Outage</h4>
+    <h4 id="banner-header">Extended Closure Notice</h4>
     <p>
-      The OCF is closed Monday, October 28 all day due to campus closure for the PG&amp;E Public Safety Power Shutoff. We will remain closed throughout the outage.
+      The OCF will be closed to take preventative measures against COVID-19.
       <br /><br />
-      At this point, most other OCF services are expected to remain available throughout the outage, including webhosting and mail. Please refer to our <a href="https://status.ocf.berkeley.edu">status blog</a> for more information during the outage. We will be providing info on that site as we receive it.
+      Most other OCF services are expected to remain available throughout the closure, including webhosting and mail. We will be providing info as the situation changes.
     </p>
   </div>
   <style>
