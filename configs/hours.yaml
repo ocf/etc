@@ -112,3 +112,5 @@ holidays:
     reason: Public Health Closure
   - date: [2020-03-21, 2020-03-29]
     reason: Spring Break
+  - date: [2020-03-30, 2020-04-07]
+    reason: Public Health Closure
