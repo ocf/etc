@@ -25,55 +25,21 @@
 
 staff-hours:
   Monday:
-   - time: ['11:00', '12:30']
-     staff: ['cooperc']
-     cancelled: true
-   - time: ['17:00', '18:00']
-     staff: ['snarain']
-     cancelled: true
+   - time: ['18:00', '19:00']
+     staff: ["jaw"]
   Tuesday:
-   - time: ['14:00', '15:50']
-     staff: ['fydai']
-     cancelled: true
   Wednesday:
-   - time: ['11:00', '12:30']
-     staff: ['cooperc']
-     cancelled: true
-   - time: ['10:00', '12:00']
-     staff: ['jaw']
-     cancelled: true
-   - time: ['17:00', '18:00']
-     staff: ['snarain']
-     cancelled: true
   Thursday:
-   - time: ['14:00', '15:50']
-     staff: ['fydai']
-     cancelled: true
-   - time: ['14:30', '16:30']
-     staff: ['jaw']
-     cancelled: true
   Friday:
-   - time: ['12:30', '14:00']
-     staff: ['cooperc', 'ahujaabhik']
-     cancelled: true
-   - time: ['14:00', '16:00']
-     staff: ['kmo']
-     cancelled: true
-   - time: ['16:00', '17:00']
-     staff: ['bernardzhao']
-     cancelled: true
-   - time: ['16:00', '19:00']
-     staff: ['wqnguyen']
-     cancelled: true
   Saturday:
   Sunday:
 
 staff-positions:
  - username: "dphan"
    position: "General Manager"
- - username: "bernardzhao"
+ - username: "kmo"
    position: "General Manager"
- - username: "cooperc"
+ - username: "fydai"
    position: "Site Manager"
  - username: "jaw"
    position: "Site Manager"
