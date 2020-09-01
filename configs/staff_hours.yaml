@@ -25,9 +25,9 @@
 
 staff-hours:
   Monday:
-   - time: ['18:00', '19:00']
-     staff: ["jaw"]
   Tuesday:
+    - time: ['18:00', '19:00']
+      staff: ["jaw"]
   Wednesday:
   Thursday:
   Friday:
