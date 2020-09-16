@@ -32,7 +32,7 @@ staff-hours:
   Thursday:
   Friday:
     - time: ['17:00', '18:00']
-      staff: ["kmo"]
+      staff: ["kmo", "ronitnath"]
   Saturday:
   Sunday:
 
