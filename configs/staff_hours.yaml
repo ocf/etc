@@ -33,7 +33,6 @@ staff-hours:
   Friday:
     - time: ['17:00', '18:00']
       staff: ["kmo", "ronitnath"]
-      cancelled: true
   Saturday:
   Sunday:
 
