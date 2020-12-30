@@ -33,9 +33,9 @@ staff-hours:
   Sunday:
 
 staff-positions:
- - username: "saurabh"
-   position: "General Manager"
  - username: "kmo"
+   position: "General Manager"
+ - username: "snarain"
    position: "General Manager"
  - username: "fydai"
    position: "Site Manager"
