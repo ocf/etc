@@ -25,25 +25,21 @@
 
 staff-hours:
   Monday:
-   - time: ['18:00', '19:00']
-     staff: ["jaw"]
   Tuesday:
   Wednesday:
   Thursday:
   Friday:
-    - time: ['17:00', '18:00']
-      staff: ["kmo"]
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "dphan"
-   position: "General Manager"
  - username: "kmo"
+   position: "General Manager"
+ - username: "snarain"
    position: "General Manager"
  - username: "fydai"
    position: "Site Manager"
- - username: "jaw"
+ - username: "njha"
    position: "Site Manager"
 
 # vim: set expandtab:ts=4:sw=4

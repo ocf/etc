@@ -2,7 +2,7 @@
 # k8s workers (or whatever is running ocfweb) for the config to propagate to ocfweb.
 ---
 
-force_lab_closed: false
+force_lab_closed: true
 
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
@@ -11,9 +11,9 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Extended Closure Notice</h4>
+    <h4 id="banner-header">Extended Lab Closure</h4>
     <p>
-      The lab is closed until further notice in light of shelter in place orders.
+      The lab is closed until further notice. It will not reopen during the fall semester due to university restrictions.
       <br /><br />
       OCF services besides the physical lab are expected to remain available throughout the closure, including webhosting and mail.
     </p>
