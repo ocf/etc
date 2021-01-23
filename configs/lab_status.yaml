@@ -11,9 +11,9 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Extended Lab Closure</h4>
+    <h4 id="banner-header">Spring 2021 Lab Update</h4>
     <p>
-      The lab is closed until further notice. It will not reopen during the fall semester due to university restrictions.
+      The lab and printing services are still closed until further notice. We have no information on when/if the lab will reopen this semester.
       <br /><br />
       OCF services besides the physical lab are expected to remain available throughout the closure, including webhosting and mail.
     </p>
