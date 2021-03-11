@@ -31,7 +31,6 @@ staff-hours:
      staff: ["kmo", "ronitnath"]
    - time: ['17:00', '18:00']
      staff: ["jaw"]
-     cancelled: true
   Thursday:
   Friday:
   Saturday:
