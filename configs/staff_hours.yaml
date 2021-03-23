@@ -28,10 +28,12 @@ staff-hours:
   Tuesday:
   Wednesday:
    - time: ['14:00', '15:00']
-     staff: ["kmo", "ronitnath"]
+     staff: ["ronitnath"]
    - time: ['17:00', '18:00']
      staff: ["jaw"]
   Thursday:
+   - time: ['13:00', '14:00']
+     staff: ["kmo"]
   Friday:
   Saturday:
   Sunday:
