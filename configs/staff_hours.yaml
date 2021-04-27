@@ -32,6 +32,7 @@ staff-hours:
   Thursday:
    - time: ['13:00', '14:00']
      staff: ["kmo"]
+     cancelled: true
    - time: ['16:00', '17:00']
      staff: ["ethanhs"]
   Friday:
