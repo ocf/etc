@@ -11,11 +11,11 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Spring 2021 Lab Update</h4>
+    <h4 id="banner-header">Summer 2021 Lab Update</h4>
     <p>
-      The lab and printing services are still closed until further notice. We have no information on when/if the lab will reopen this semester.
+      The lab is still closed & will likely remain closed until further notice. We expect the lab to reopen for the fall semester.
       <br /><br />
-      OCF services besides the physical lab are expected to remain available throughout the closure, including webhosting and mail.
+      OCF services - physical lab access aside - are expected to remain available throughout the closure, including webhosting and mail. Please 'Contact Us' for more details!
     </p>
   </div>
   <style>
