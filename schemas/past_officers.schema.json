@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/past_officers.schema.json",
+  "type": "object",
+  "properties": {
+    "terms": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/term"
+      },
+      
+    }
+  },
+  "required": [
+    "terms"
+  ],
+  "$defs": {
+    "term": {
+      "type": "object",
+      "required": [
+        "termDate",
+        "termOfficers"
+      ],
+      "properties": {
+        "termDate": {
+          "type": "string"
+        },
+        "termOfficers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/pastOfficer"
+          }
+        }
+      }
+    },
+    "pastOfficer": {
+      "type": "object",
+      "required": [
+        "officerTag",
+        "officerPosition"
+      ],
+      "properties": {
+        "officerTag": {
+          "type": "string"
+        },
+        "officerPosition": {
+          "type": "string"
+        },
+        "officerStart": {
+          "type": "string"
+        },
+        "officerEnd": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
