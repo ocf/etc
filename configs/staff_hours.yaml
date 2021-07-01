@@ -27,8 +27,6 @@ staff-hours:
   Monday:
   Tuesday:
   Wednesday:
-   - time: ['17:00', '18:00']
-     staff: ["jaw"]
   Thursday:
    - time: ['13:00', '14:00']
      staff: ["kmo"]
