@@ -32,15 +32,18 @@ staff-hours:
      staff: ["kmo"]
      cancelled: true
   Friday:
+   - time: ['15:00', '16:00']
+     staff: ["ethanhs"]
+     cancelled: false
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "kmo"
+ - username: "ncberberi"
    position: "General Manager"
  - username: "snarain"
    position: "General Manager"
- - username: "fydai"
+ - username: "ethanhs"
    position: "Site Manager"
  - username: "njha"
    position: "Site Manager"
