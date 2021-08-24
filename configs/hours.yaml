@@ -116,3 +116,13 @@ holidays:
     reason: Public Health Closure
   - date: [2020-05-16, 2020-08-25]
     reason: Summer Break
+  - date: 2020-08-29
+    reason: MLK Closed
+  - date: 2020-09-05
+    reason: MLK Closed
+  - date: 2020-09-12
+    reason: MLK Closed
+  - date: 2020-09-19
+    reason: MLK Closed
+  - date: 2020-09-26
+    reason: MLK Closed
