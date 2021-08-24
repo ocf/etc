@@ -7,15 +7,15 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: false
+banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header">Spring 2021 Lab Update</h4>
+    <h4 id="banner-header">Fall 2021 Lab Update</h4>
     <p>
-      The lab and printing services are still closed until further notice. We have no information on when/if the lab will reopen this semester.
+      The lab and printing services are planned to reopen this Fall starting on Monday, August 30th!
       <br /><br />
-      OCF services besides the physical lab are expected to remain available throughout the closure, including webhosting and mail.
+      We will update the website with more information containing lab policies and our new remote printing service.
     </p>
   </div>
   <style>
@@ -26,9 +26,9 @@ banner_html: |
       display: block;
       color: black;
       font-size: 100%;
-      background-color: #e6b129;
+      background-color: #a8e3ff;
     }
     #banner:hover {
-      background-color: #e6b129;
+      background-color: #a8e3ff;
     }
   </style>
