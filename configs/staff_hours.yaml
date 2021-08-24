@@ -28,9 +28,6 @@ staff-hours:
   Tuesday:
   Wednesday:
   Thursday:
-   - time: ['13:00', '14:00']
-     staff: ["kmo"]
-     cancelled: true
   Friday:
    - time: ['15:00', '16:00']
      staff: ["ethanhs"]
