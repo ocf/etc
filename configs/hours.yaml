@@ -4,15 +4,15 @@ regular:
   Tuesday:
     - ['9:00', '20:00']
   Wednesday:
-    - ['9:00', '20:00']
+    - ['9:00', '18:00']
   Thursday:
     - ['9:00', '20:00']
   Friday:
     - ['9:00', '18:00']
   Saturday:
-    - ['9:00', '20:00']
+    - ['11:00', '18:00']
   Sunday:
-    - ['9:00', '20:00']
+    - ['23:58', '23:59']
 holidays:
   - date: [2018-11-21, 2018-11-25]
     reason: Thanksgiving Break
@@ -116,3 +116,13 @@ holidays:
     reason: Public Health Closure
   - date: [2020-05-16, 2020-08-25]
     reason: Summer Break
+  - date: 2020-08-29
+    reason: MLK Closed
+  - date: 2020-09-05
+    reason: MLK Closed
+  - date: 2020-09-12
+    reason: MLK Closed
+  - date: 2020-09-19
+    reason: MLK Closed
+  - date: 2020-09-26
+    reason: MLK Closed
