@@ -126,10 +126,10 @@ holidays:
     reason: Preparing for Reopening
   - date: 2021-08-29
     reason: Preparing for Reopening
-  - date: 2021-09-06
-    reason: Labor Day
   - date: 2021-09-05
     reason: MLK Closed
+  - date: 2021-09-06
+    reason: Labor Day
   - date: 2021-09-12
     reason: MLK Closed
   - date: 2021-09-19
