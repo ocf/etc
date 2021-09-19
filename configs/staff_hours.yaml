@@ -33,7 +33,7 @@ staff-hours:
   Thursday:
   Friday:
    - time: ['16:00', '17:00']
-     staff: ["ethanhs"]
+     staff: ["ethanhs", "jyxzhang", "bryli"]
      cancelled: false
   Saturday:
   Sunday:
