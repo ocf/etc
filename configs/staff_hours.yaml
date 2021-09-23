@@ -31,6 +31,9 @@ staff-hours:
    - time: ['10:00', '11:00']
      staff: ["ronitnath"]
      cancelled: false
+   - time: ['17:00', '18:00']
+     staff: ["snarain"]
+     cancelled: false
   Friday:
    - time: ['16:00', '17:00']
      staff: ["ethanhs", "jyxzhang", "bryli"]
