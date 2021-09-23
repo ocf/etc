@@ -30,7 +30,7 @@ staff-hours:
   Thursday:
    - time: ['10:00', '11:00']
      staff: ["ronitnath"]
-     cancelled: false
+     cancelled: true
    - time: ['17:00', '18:00']
      staff: ["snarain"]
      cancelled: false
