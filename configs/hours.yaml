@@ -134,9 +134,9 @@ holidays:
     reason: MLK Closed
   - date: 2021-09-19
     reason: MLK Closed
-  - date: 2021-09-26
-    reason: MLK Closed
-  - date: 2021-09-26
+  - date: 2021-09-25
     reason: Internal staff social
     hours:
       - ['11:00', '16:00']
+  - date: 2021-09-26
+    reason: MLK Closed
