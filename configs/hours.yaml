@@ -140,3 +140,5 @@ holidays:
       - ['11:00', '16:00']
   - date: 2021-09-26
     reason: MLK Closed
+  - date: 2021-10-02
+    reason: Internal staff social
