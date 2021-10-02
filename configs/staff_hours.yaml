@@ -36,7 +36,7 @@ staff-hours:
      cancelled: false
   Friday:
    - time: ['16:00', '17:00']
-     staff: ["ethanhs", "jyxzhang", "bryli"]
+     staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu"]
      cancelled: false
   Saturday:
   Sunday:
