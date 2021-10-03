@@ -142,3 +142,13 @@ holidays:
     reason: MLK Closed
   - date: 2021-10-02
     reason: Staff hack day
+  - date: 2021-10-03
+    reason: MLK Closed
+  - date: 2021-10-10
+    reason: MLK Closed
+  - date: 2021-10-17
+    reason: MLK Closed
+  - date: 2021-10-24
+    reason: MLK Closed
+  - date: 2021-10-31
+    reason: MLK Closed   
