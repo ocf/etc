@@ -28,9 +28,6 @@ staff-hours:
   Tuesday:
   Wednesday:
   Thursday:
-   - time: ['10:00', '11:00']
-     staff: ["ronitnath"]
-     cancelled: true
    - time: ['17:00', '18:00']
      staff: ["snarain"]
      cancelled: false
