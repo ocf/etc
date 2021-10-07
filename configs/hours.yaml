@@ -144,6 +144,10 @@ holidays:
     reason: Staff hack day
   - date: 2021-10-03
     reason: MLK Closed
+  - date: 2021-10-07
+    reason: Staff emergency
+    hours:
+      - ['12:00', '20:00']
   - date: 2021-10-10
     reason: MLK Closed
   - date: 2021-10-17
