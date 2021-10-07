@@ -147,7 +147,7 @@ holidays:
   - date: 2021-10-07
     reason: Staff emergency
     hours:
-      - ['12:00', '20:00']
+      - ['10:30', '20:00']
   - date: 2021-10-10
     reason: MLK Closed
   - date: 2021-10-17
