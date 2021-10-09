@@ -15,6 +15,11 @@ meeting-hours:
       virtual: false
   Tuesday:
   Wednesday:
+    - time: ['19:00', '20:00']
+      subject: "Board of Directors Meeting"
+      short: "bod"
+      irl: true
+      virtual: true
     - time: ['20:00', '21:00']
       subject: "Staff Meeting"
       short: "staff"
