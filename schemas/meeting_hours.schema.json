@@ -53,8 +53,8 @@
       "items": {
         "$ref": "#/definitions/meeting_hours_entry"
       }
-    },
-  }
+    }
+  },
   "type": "object",
   "properties": {
     "meeting-hours": {
