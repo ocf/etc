@@ -32,7 +32,7 @@
         "irl": {
           "type": "boolean"
         },
-        "hybrid": {
+        "virtual": {
           "type": "boolean"
         }
       },
@@ -41,7 +41,7 @@
         "subject",
         "short",
         "irl",
-        "hybrid"
+        "virtual"
       ],
       "additionalProperties": false
     },
