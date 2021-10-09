@@ -150,6 +150,10 @@ holidays:
       - ['10:30', '20:00']
   - date: 2021-10-10
     reason: MLK Closed
+  - date: 2021-10-16
+    reason: Internal Event  # OCF Resume Workshop
+    hours:
+      - ['11:00', '13:00']
   - date: 2021-10-17
     reason: MLK Closed
   - date: 2021-10-24
