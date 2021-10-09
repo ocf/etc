@@ -54,7 +54,7 @@
         "$ref": "#/definitions/meeting_hours_entry"
       }
     },
-  },
+  }
   "type": "object",
   "properties": {
     "meeting-hours": {
@@ -95,7 +95,7 @@
     }
   },
   "required": [
-    "meeting-hours",
+    "meeting-hours"
   ],
   "additionalProperties": false
 }
