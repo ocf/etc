@@ -7,27 +7,27 @@
 #
 
 meeting-hours:
-	Monday:
+  Monday:
     - time: ['14:00', '15:00']
       subject: "Internal Meeting"
       short: "internal"
       irl: true
       virtual: true
-	Tuesday:
-	Wednesday:
-		- time: ['20:00', '21:00']
-		  subject: "Staff Meeting"
+  Tuesday:
+  Wednesday:
+    - time: ['20:00', '21:00']
+      subject: "Staff Meeting"
       short: "staff"
       irl: true
       virtual: true
-	Thursday:
-	Friday:
+  Thursday:
+  Friday:
     - time: ['17:00', '16:00']
       subject: "Web Team Meeting"
       short: "web"
       irl: true
       virtual: true
-	Saturday:
+  Saturday:
     - time: ['14:00', '15:00']
       subject: "Kubernetes Interest Group Meeting"
       short: "kubernetes"
@@ -38,4 +38,4 @@ meeting-hours:
       short: "linux/infra"
       irl: true
       virtual: true
-	Sunday:
+  Sunday:
