@@ -40,8 +40,11 @@ staff-hours:
    - time: ['15:30', '18:00']
      staff: ["mdcha"]
      cancelled: true
+   - time: ['12:00', '13:00']
+     staff: ["owent"]
+     cancelled: false
    - time: ['16:00', '17:00']
-     staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu", "owent"]
+     staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu"]
      cancelled: false
   Saturday:
   Sunday:
