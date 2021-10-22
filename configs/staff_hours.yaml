@@ -39,7 +39,7 @@ staff-hours:
   Friday:
    - time: ['12:00', '13:00']
      staff: ["owent"]
-     cancelled: false
+     cancelled: true
    - time: ['15:30', '18:00']
      staff: ["mdcha"]
      cancelled: true
