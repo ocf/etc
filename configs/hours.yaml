@@ -1,6 +1,6 @@
 regular:
   Monday:
-    - ['9:00', '18:00']
+    - ['9:00', '20:00']
   Tuesday:
     - ['9:00', '20:00']
   Wednesday:
@@ -159,4 +159,10 @@ holidays:
   - date: 2021-10-24
     reason: MLK Closed
   - date: 2021-10-31
+    reason: MLK Closed
+  - date: 2021-11-07
+    reason: MLK Closed
+  - date: 2021-11-14
+    reason: MLK Closed
+  - date: 2021-11-21
     reason: MLK Closed
