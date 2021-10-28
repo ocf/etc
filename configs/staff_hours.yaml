@@ -29,6 +29,8 @@ staff-hours:
       staff: ["ronitnath"]
   Tuesday:
   Wednesday:
+    - time: ['16:00', '18:00']
+      staff: ["kmo"]
   Thursday:
    - time: ['15:00', '16:00']
      staff: ["bencuan", "etw", "azh"]
