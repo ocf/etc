@@ -41,14 +41,11 @@ staff-hours:
      staff: ["mdcha"]
      cancelled: true
   Friday:
-   - time: ['12:00', '13:00']
-     staff: ["owent"]
-     cancelled: true
    - time: ['15:30', '18:00']
      staff: ["mdcha"]
      cancelled: true
    - time: ['16:00', '17:00']
-     staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu"]
+     staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu", "owent"]
      cancelled: false
    - time: ['17:10', '18:00']
      staff: ["rjz"]
