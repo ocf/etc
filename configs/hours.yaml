@@ -167,7 +167,7 @@ holidays:
   - date: 2021-11-02
     reason: Staffing Issue
     hours:
-      - ['9:00', '13:00']
+      - ['10:15', '13:00']
   - date: 2021-11-06
     reason: Internal staff social
     hours:
