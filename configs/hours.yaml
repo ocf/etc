@@ -164,6 +164,10 @@ holidays:
       - ['11:00', '15:00']
   - date: 2021-10-31
     reason: MLK Closed
+  - date: 2021-11-02
+    reason: Staffing Issue
+    hours:
+      - ['9:00', '13:00']
   - date: 2021-11-06
     reason: Internal staff social
     hours:
