@@ -37,13 +37,7 @@ staff-hours:
    - time: ['17:00', '18:00']
      staff: ["snarain"]
      cancelled: true
-   - time: ['18:00', '20:00']
-     staff: ["mdcha"]
-     cancelled: true
   Friday:
-   - time: ['15:30', '18:00']
-     staff: ["mdcha"]
-     cancelled: true
    - time: ['16:00', '17:00']
      staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu"]
      cancelled: false
