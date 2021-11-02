@@ -1,6 +1,6 @@
 regular:
   Monday:
-    - ['9:00', '18:00']
+    - ['9:00', '20:00']
   Tuesday:
     - ['9:00', '20:00']
   Wednesday:
@@ -144,11 +144,37 @@ holidays:
     reason: Staff hack day
   - date: 2021-10-03
     reason: MLK Closed
+  - date: 2021-10-07
+    reason: Staff emergency
+    hours:
+      - ['10:30', '20:00']
   - date: 2021-10-10
     reason: MLK Closed
+  - date: 2021-10-16
+    reason: Internal Event  # OCF Resume Workshop
+    hours:
+      - ['11:00', '13:00']
   - date: 2021-10-17
     reason: MLK Closed
   - date: 2021-10-24
     reason: MLK Closed
+  - date: 2021-10-30
+    reason: Internal staff social
+    hours:
+      - ['11:00', '15:00']
   - date: 2021-10-31
+    reason: MLK Closed
+  - date: 2021-11-02
+    reason: Staffing Issue
+    hours:
+      - ['13:00', '20:00']
+  - date: 2021-11-06
+    reason: Internal staff social
+    hours:
+      - ['11:00', '14:00']
+  - date: 2021-11-07
+    reason: MLK Closed
+  - date: 2021-11-14
+    reason: MLK Closed
+  - date: 2021-11-21
     reason: MLK Closed

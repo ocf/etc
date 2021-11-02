@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/meeting_hours.schema.json",
+  "definitions": {
+    "time": {
+      "type": "string",
+      "pattern": "^[012]?[0-9]:[0-9][0-9]$"
+    },
+    "timerange": {
+      "type": "array",
+      "items": [
+        {
+          "$ref": "#/definitions/time"
+        },
+        {
+          "$ref": "#/definitions/time"
+        }
+      ]
+    },
+    "meeting_hours_entry": {
+      "type": "object",
+      "properties": {
+        "time": {
+          "$ref": "#/definitions/timerange"
+        },
+        "subject": {
+          "type": "string"
+        },
+        "short": {
+          "type": "string"
+        },
+        "irl": {
+          "type": "boolean"
+        },
+        "virtual": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "time",
+        "subject",
+        "short",
+        "irl",
+        "virtual"
+      ],
+      "additionalProperties": false
+    },
+    "meeting_hours_entry_array": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "$ref": "#/definitions/meeting_hours_entry"
+      }
+    }
+  },
+  "type": "object",
+  "properties": {
+    "meeting-hours": {
+      "type": "object",
+      "properties": {
+        "Monday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Tuesday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Wednesday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Thursday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Friday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Saturday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        },
+        "Sunday": {
+          "$ref": "#/definitions/meeting_hours_entry_array"
+        }
+      },
+      "required": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "meeting-hours"
+  ],
+  "additionalProperties": false
+}
