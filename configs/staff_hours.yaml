@@ -33,7 +33,7 @@ staff-hours:
       staff: ["kmo", "snarain"]
   Thursday:
    - time: ['15:00', '16:00']
-     staff: ["bencuan", "etw", "azh"]
+     staff: ["bencuan", "etw", "azh", "yuc"]
   Friday:
    - time: ['16:00', '17:00']
      staff: ["ethanhs", "jyxzhang", "bryli", "vijprathigudupu"]
