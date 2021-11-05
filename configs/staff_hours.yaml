@@ -27,6 +27,8 @@ staff-hours:
   Monday:
     - time: ['10:00', '11:00']
       staff: ["ronitnath"]
+    - time: ['16:10', '17:00']
+      staff: ["ncograin"]
   Tuesday:
   Wednesday:
     - time: ['16:00', '18:00']
