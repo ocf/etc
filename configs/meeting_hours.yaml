@@ -27,7 +27,7 @@ meeting-hours:
       virtual: true
   Thursday:
   Friday:
-    - time: ['16:00', '17:00']
+    - time: ['17:00', '18:00']
       subject: "Web Team Meeting"
       short: "web"
       irl: true
