@@ -174,8 +174,6 @@ holidays:
       - ['11:00', '14:00']
   - date: 2021-11-07
     reason: MLK Closed
-  - data: 2021-11-11
-    reason: "Veteran's Day"
   - date: 2021-11-14
     reason: MLK Closed
   - date: 2021-11-21
