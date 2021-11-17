@@ -32,7 +32,10 @@ staff-hours:
   Tuesday:
   Wednesday:
     - time: ['16:00', '18:00']
-      staff: ["kmo", "snarain"]
+      staff: ["snarain"]
+    - time: ['16:00', '18:00']
+      staff: ["kmo"]
+      cancelled: false
   Thursday:
    - time: ['15:00', '16:00']
      staff: ["bencuan", "etw", "azh", "yuc"]
