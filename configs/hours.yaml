@@ -182,3 +182,17 @@ holidays:
     reason: MLK Closed
   - date: 2021-11-21
     reason: MLK Closed
+  - date: 2021-11-22
+    reason: Board of Directors Meeting
+    hours:
+      - ['9:00', '19:00']
+  - date: 2021-11-24
+    reason: Thanksgiving Break
+  - date: 2021-11-25
+    reason: Thanksgiving Break
+  - date: 2021-11-26
+    reason: Thanksgiving Break
+  - date: 2021-11-27
+    reason: Thanksgiving Break
+  - date: 2021-11-28
+    reason: Thanksgiving Break
