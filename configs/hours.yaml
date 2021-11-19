@@ -186,6 +186,8 @@ holidays:
     reason: Board of Directors Meeting
     hours:
       - ['9:00', '19:00']
+  - date: 2021-11-23
+    reason: Thanksgiving Break #no front desk staff
   - date: 2021-11-24
     reason: Thanksgiving Break
   - date: 2021-11-25
@@ -196,3 +198,7 @@ holidays:
     reason: Thanksgiving Break
   - date: 2021-11-28
     reason: Thanksgiving Break
+  - date: 2021-11-29
+    reason: Morning Closure #no front desk staff
+    hours:
+      - ['13:00', '20:00']
