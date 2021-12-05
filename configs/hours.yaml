@@ -202,3 +202,11 @@ holidays:
     reason: Morning Closure #no front desk staff
     hours:
       - ['13:00', '20:00']
+  - date: 2021-12-05
+    reason: MLK Closed
+  - date: 2021-12-12
+    reason: MLK Closed
+  - date: 2021-12-19
+    reason: MLK Closed
+  - date: 2021-12-26
+    reason: MLK Closed
