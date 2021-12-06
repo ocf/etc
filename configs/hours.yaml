@@ -204,9 +204,19 @@ holidays:
       - ['13:00', '20:00']
   - date: 2021-12-05
     reason: MLK Closed
+  - date: 2021-12-08
+    reason: RRR Week Hours Expansion
+    hours:
+      - ['9:00', '19:00']
   - date: 2021-12-12
     reason: MLK Closed
-  - date: 2021-12-19
-    reason: MLK Closed
-  - date: 2021-12-26
-    reason: MLK Closed
+  - date: 2021-12-15
+    reason: Final Week Hours Expansion
+    hours:
+      - ['9:00', '20:00']
+  - date: 2021-12-16
+    reason: Finals Week #no front desk staff
+  - date: 2021-12-17
+    reason: Finals Week #no front desk staff
+  - date: 2021-12-18
+    reason: Finals Week #no front desk staff

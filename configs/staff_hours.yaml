@@ -31,8 +31,6 @@ staff-hours:
       staff: ["ncograin"]
   Tuesday:
   Wednesday:
-    - time: ['16:00', '17:00']
-      staff: ["snarain"]
     - time: ['16:00', '18:00']
       staff: ["kmo"]
       cancelled: false
