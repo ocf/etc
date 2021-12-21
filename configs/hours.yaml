@@ -220,3 +220,5 @@ holidays:
     reason: Finals Week #no front desk staff
   - date: 2021-12-18
     reason: Finals Week #no front desk staff
+  - date: [2021-12-19, 2022-01-11]
+    reason: Winter Break
