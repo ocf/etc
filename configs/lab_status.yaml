@@ -7,7 +7,7 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: true
+banner_visible: false
 
 banner_html: |
   <div class="update-banner" id="banner">
