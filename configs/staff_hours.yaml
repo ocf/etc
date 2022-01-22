@@ -49,13 +49,13 @@ staff-hours:
   Sunday:
 
 staff-positions:
- - username: "ncberberi"
+ - username: "bencuan"
    position: "General Manager"
- - username: "snarain"
+ - username: "jyxzhang"
    position: "General Manager"
- - username: "ethanhs"
+ - username: "etw"
    position: "Site Manager"
- - username: "njha"
+ - username: "rjz"
    position: "Site Manager"
 
 # vim: set expandtab:ts=4:sw=4
