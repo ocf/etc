@@ -228,3 +228,5 @@ holidays:
     hours:
       - ['9:00', '18:00']
     reason: Reduced Building Hours
+  - date: 2022-01-29
+    reason: Closure
