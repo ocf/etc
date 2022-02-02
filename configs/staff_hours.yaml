@@ -29,7 +29,7 @@ staff-hours:
       staff: ["njha", "etw"]
   Tuesday:
     - time: ['17:00', '18:00']
-      staff: ['laksith']
+      staff: ["laksith"]
       cancelled: false
   Wednesday:
   Thursday:
