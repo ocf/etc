@@ -50,7 +50,5 @@ staff-positions:
    position: "Site Manager"
  - username: "njha"
    position: "Deputy Site Manager"
- - username: "laksith"
-   position: "Ocf Staff"
 
 # vim: set expandtab:ts=4:sw=4
