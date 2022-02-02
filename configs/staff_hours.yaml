@@ -28,6 +28,9 @@ staff-hours:
     - time: ['17:00', '18:00']
       staff: ["njha", "etw"]
   Tuesday:
+    - time: ['17:00', '18:00']
+      staff: ['laksith']
+      cancelled: false
   Wednesday:
   Thursday:
   Friday:
@@ -45,5 +48,7 @@ staff-positions:
    position: "Site Manager"
  - username: "njha"
    position: "Deputy Site Manager"
+ - username: "laksith"
+   position: "Ocf Staff"
 
 # vim: set expandtab:ts=4:sw=4
