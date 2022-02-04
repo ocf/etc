@@ -28,7 +28,7 @@ staff-hours:
     - time: ['16:00', '17:00']
       staff: ["bencuan"]
     - time: ['17:00', '18:00']
-      staff: ["njha", "etw"]
+      staff: ["njha", "etw", "rjz"]
   Tuesday:
     - time: ['17:00', '18:00']
       staff: ["laksith"]
