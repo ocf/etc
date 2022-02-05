@@ -230,3 +230,7 @@ holidays:
     reason: Reduced Building Hours
   - date: 2022-01-29
     reason: Closure
+  - date: 2022-02-05
+    reason: Internal staff social
+    hours:
+      - ['11:00', '16:00']
