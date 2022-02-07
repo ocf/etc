@@ -34,6 +34,8 @@ staff-hours:
       staff: ["laksith"]
       cancelled: false
   Wednesday:
+    - time: ['13:00', '14:00']
+      staff: ["ncograin"]
   Thursday:
   Friday:
   Saturday:
