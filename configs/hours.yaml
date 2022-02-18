@@ -234,3 +234,5 @@ holidays:
     reason: Internal staff social
     hours:
       - ['11:00', '16:00']
+  - date: 2019-02-21
+    reason: Presidents' Day
