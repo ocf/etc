@@ -39,6 +39,8 @@ staff-hours:
       cancelled: true
   Thursday:
   Friday:
+    - time: ['15:00', '16:00']
+      staff: ["jyxzhang"]
   Saturday:
   Sunday:
 
