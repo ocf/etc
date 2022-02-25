@@ -36,7 +36,7 @@ staff-hours:
   Wednesday:
     - time: ['13:10', '14:00']
       staff: ["ncograin"]
-      cancelled: true
+      cancelled: false
   Thursday:
   Friday:
     - time: ['15:00', '16:00']
