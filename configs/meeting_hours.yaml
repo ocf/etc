@@ -8,39 +8,64 @@
 
 meeting-hours:
   Monday:
-    - time: ['14:00', '15:00']
-      subject: "Internal Meeting"
-      short: "internal"
-      irl: true
-      virtual: false
   Tuesday:
+    - time: ['20:00', '22:00']
+      subject: "Decal Meeting"
+      short: "decal"
+      irl: true
+      virtual: true
   Wednesday:
     - time: ['19:00', '20:00']
       subject: "Board of Directors Meeting"
       short: "bod"
       irl: true
-      virtual: true
+      virtual: false
     - time: ['20:00', '21:00']
       subject: "Staff Meeting"
       short: "staff"
       irl: true
       virtual: true
   Thursday:
+    - time: ['20:00', '22:00']
+      subject: "Decal Meeting"
+      short: "decal"
+      irl: true
+      virtual: true
   Friday:
     - time: ['17:00', '18:00']
-      subject: "Web Team Meeting"
-      short: "web"
+      subject: "Finance Committee Meeting"
+      short: "finance"
       irl: true
       virtual: false
   Saturday:
-    - time: ['14:00', '15:00']
+    - time: ['11:00', '12:00']
       subject: "Kubernetes Interest Group Meeting"
       short: "kubernetes"
       irl: true
       virtual: false
+    - time: ['12:00', '13:00']
+      subject: "DDR Interest Group Meeting"
+      short: "DDR"
+      irl: true
+      virtual: false
+    - time: ['12:00', '13:00']
+      subject: "Web Interest Group Meeting"
+      short: "web"
+      irl: true
+      virtual: false
+    - time: ['13:00', '14:00']
+      subject: "Linux Infra Interest Group Meeting"
+      short: "linux-infra"
+      irl: true
+      virtual: false
+    - time: ['14:00', '15:00']
+      subject: "External Committee Meeting"
+      short: "external"
+      irl: true
+      virtual: false
     - time: ['15:00', '16:00']
-      subject: "Linux/Infra Meeting"
-      short: "linux/infra"
+      subject: "Internal Committee Meeting"
+      short: "internal"
       irl: true
       virtual: false
   Sunday:
