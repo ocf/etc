@@ -236,3 +236,5 @@ holidays:
       - ['11:00', '16:00']
   - date: 2022-02-21
     reason: Presidents' Day
+  - date: 2022-03-12
+    reason: Internal Event # Hack Day
