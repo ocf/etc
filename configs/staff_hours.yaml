@@ -35,9 +35,11 @@ staff-hours:
       cancelled: false
   Wednesday:
     - time: ['13:10', '14:00']
-      staff: ["ncograin", "kian"]
+      staff: ["ncograin"]
       cancelled: true
   Thursday:
+   - time: ['14:00', '15:00']
+     staff: ["lperez", "kian"]
   Friday:
     - time: ['15:00', '16:00']
       staff: ["jyxzhang"]
