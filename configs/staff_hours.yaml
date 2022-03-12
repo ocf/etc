@@ -42,7 +42,7 @@ staff-hours:
       staff: ["lperez", "kian"]
   Friday:
     - time: ['15:00', '16:00']
-      staff: ["jyxzhang"]
+      staff: ["jyxzhang", "asomani"]
   Saturday:
   Sunday:
 
