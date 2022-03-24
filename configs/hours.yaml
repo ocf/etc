@@ -240,3 +240,5 @@ holidays:
     reason: Internal Event # Hack Day
     hours:
       - ['11:00', '13:00']
+  - date: [2022-03-20, 2022-03-26]
+    reason: Spring Break
