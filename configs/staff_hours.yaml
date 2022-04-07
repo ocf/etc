@@ -43,7 +43,6 @@ staff-hours:
   Friday:
     - time: ['15:00', '16:00']
       staff: ["jyxzhang", "asomani"]
-      cancelled: true
   Saturday:
   Sunday:
 
