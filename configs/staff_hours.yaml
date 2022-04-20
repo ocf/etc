@@ -34,7 +34,7 @@ staff-hours:
       staff: ["laksith"]
       cancelled: false
   Wednesday:
-    - time: ['12:00', '1:00']
+    - time: ['12:00', '13:00']
       staff: ["adarshiyer"]
   Thursday:
     - time: ['14:00', '15:00']
