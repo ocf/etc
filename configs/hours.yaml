@@ -242,3 +242,7 @@ holidays:
       - ['11:00', '13:00']
   - date: [2022-03-20, 2022-03-26]
     reason: Spring Break
+  - date: 2022-04-22
+    reason: Unspecified # Hack Day
+    hours:
+      - ['9:00', '17:00']
