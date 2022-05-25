@@ -34,7 +34,7 @@ pycryptodome==3.9.9
 pycryptodomex==3.9.9
 pyfakefs==4.3.3
 PyGithub==1.54
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyparsing==2.4.7
 pyrsistent==0.17.3
