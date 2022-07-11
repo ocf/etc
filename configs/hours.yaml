@@ -11,8 +11,7 @@ regular:
     - ['9:00', '20:00']
   Saturday:
     - ['11:00', '18:00']
-  Sunday:
-    - ['23:58', '23:59']
+  Sunday: null
 holidays:
   - date: [2018-11-21, 2018-11-25]
     reason: Thanksgiving Break
