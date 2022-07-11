@@ -59,7 +59,10 @@
       ]
     },
     "timeranges": {
-      "type": ["array", "null"],
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
         "$ref": "#/definitions/timerange"
       }
