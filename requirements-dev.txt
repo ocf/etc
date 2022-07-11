@@ -20,7 +20,7 @@ jsonschema==3.2.0
 ldap3==2.9
 MarkupSafe==1.1.1
 nodeenv==1.5.0
-ocflib==2021.1.25.19.12
+ocflib==2022.7.10.19.40
 packaging==20.8
 pathlib2==2.3.5
 pexpect==4.8.0
