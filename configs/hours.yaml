@@ -4,15 +4,14 @@ regular:
   Tuesday:
     - ['9:00', '20:00']
   Wednesday:
-    - ['9:00', '18:00']
+    - ['9:00', '20:00']
   Thursday:
     - ['9:00', '20:00']
   Friday:
-    - ['9:00', '18:00']
+    - ['9:00', '20:00']
   Saturday:
     - ['11:00', '18:00']
-  Sunday:
-    - ['23:58', '23:59']
+  Sunday: null
 holidays:
   - date: [2018-11-21, 2018-11-25]
     reason: Thanksgiving Break
@@ -234,3 +233,25 @@ holidays:
     reason: Internal staff social
     hours:
       - ['11:00', '16:00']
+  - date: 2022-02-21
+    reason: Presidents' Day
+  - date: 2022-03-12
+    reason: Internal Event # Hack Day
+    hours:
+      - ['11:00', '13:00']
+  - date: [2022-03-20, 2022-03-26]
+    reason: Spring Break
+  - date: 2022-04-22
+    reason: Unspecified # Hack Day
+    hours:
+      - ['9:00', '17:00']
+  - date: 2022-05-04
+    reason: Extended Lab Hours # for dead week
+    hours:
+      - ['9:00', '20:00']
+  - date: 2022-05-07
+    reason: Extended Lab Hours # for dead week
+    hours:
+      - ['9:00', '20:00']
+  - date: [2022-05-14, 2022-08-21]
+    reason: Summer Break

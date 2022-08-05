@@ -27,17 +27,25 @@ staff-hours:
   Monday:
     - time: ['16:00', '17:00']
       staff: ["bencuan"]
+      cancelled: true
     - time: ['17:00', '18:00']
       staff: ["njha", "etw", "rjz"]
+      cancelled: true
   Tuesday:
     - time: ['17:00', '18:00']
       staff: ["laksith"]
-      cancelled: false
+      cancelled: true
   Wednesday:
-    - time: ['13:00', '14:00']
-      staff: ["ncograin"]
+    - time: ['12:00', '13:00']
+      staff: ["adarshiyer"]
   Thursday:
+    - time: ['14:00', '15:00']
+      staff: ["lperez", "kian"]
+      cancelled: true
   Friday:
+    - time: ['15:00', '16:00']
+      staff: ["jyxzhang", "asomani"]
+      cancelled: true
   Saturday:
   Sunday:
 
