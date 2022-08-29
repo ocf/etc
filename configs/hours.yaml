@@ -253,5 +253,5 @@ holidays:
     reason: Extended Lab Hours # for dead week
     hours:
       - ['9:00', '20:00']
-  - date: [2022-05-14, 2022-08-29]
+  - date: [2022-05-14, 2022-08-28]
     reason: Summer Break
