@@ -36,9 +36,6 @@ staff-hours:
       staff: ["laksith"]
       cancelled: true
   Wednesday:
-    - time: ['12:00', '13:00']
-      staff: ["adarshiyer"]
-      cancelled: true
   Thursday:
   Friday:
     - time: ['12:00', '13:00']
@@ -47,6 +44,8 @@ staff-hours:
     - time: ['15:00', '16:00']
       staff: ["jyxzhang", "asomani"]
       cancelled: true
+    - time: ['15:00', '16:00']
+      staff: ["adarshiyer"]
   Saturday:
   Sunday:
 
