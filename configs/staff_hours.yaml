@@ -25,16 +25,7 @@
 
 staff-hours:
   Monday:
-    - time: ['16:00', '17:00']
-      staff: ["bencuan"]
-      cancelled: true
-    - time: ['17:00', '18:00']
-      staff: ["njha", "etw", "rjz"]
-      cancelled: true
   Tuesday:
-    - time: ['17:00', '18:00']
-      staff: ["laksith"]
-      cancelled: true
   Wednesday:
   Thursday:
   Friday:
@@ -42,23 +33,18 @@ staff-hours:
       staff: ["lperez", "kian"]
       cancelled: false
     - time: ['15:00', '16:00']
-      staff: ["jyxzhang", "asomani"]
-      cancelled: true
-    - time: ['15:00', '16:00']
       staff: ["adarshiyer"]
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "bencuan"
-   position: "General Manager"
  - username: "jyxzhang"
+   position: "General Manager"
+ - username: "njha"
    position: "General Manager"
  - username: "etw"
    position: "Site Manager"
  - username: "rjz"
    position: "Site Manager"
- - username: "njha"
-   position: "Deputy Site Manager"
 
 # vim: set expandtab:ts=4:sw=4
