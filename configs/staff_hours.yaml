@@ -25,7 +25,7 @@
 
 staff-hours:
   Monday:
-    - time: ['16:00', '17:00']
+    - time: ['15:00', '16:00']
       staff: ["bencuan"]
   Tuesday:
   Wednesday:
