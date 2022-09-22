@@ -28,7 +28,7 @@ staff-hours:
     - time: ['12:30', '13:30']
       staff: ["anddone"]
     - time: ['15:00', '16:00']
-      staff: ["bencuan", "oliverni", "ianswong"]
+      staff: ["bencuan", "oliverni", "ianswong", "btorres"]
   Tuesday:
     - time: ['12:00', '13:00']
       staff: ["owent"]
