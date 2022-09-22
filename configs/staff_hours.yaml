@@ -35,8 +35,8 @@ staff-hours:
       cancelled: false
   Wednesday:
     - time: ['17:00', '18:00']
-      staff: ["bryli"]
-      
+      staff: ["rjz", "bryli"]
+      cancelled: false
   Thursday:
     - time: ['17:00', '18:00']
       staff: ["jyxzhang", "jessieewoo"
