@@ -26,7 +26,7 @@
 staff-hours:
   Monday:
     - time: ['12:30', '13:30']
-      staff: ["anddone"]
+      staff: ["anddone", "jaysag"]
     - time: ['15:00', '16:00']
       staff: ["bencuan", "oliverni", "ianswong", "btorres", "errorfourten"]
   Tuesday:
@@ -39,7 +39,7 @@ staff-hours:
       cancelled: false
   Thursday:
     - time: ['17:00', '18:00']
-      staff: ["jyxzhang", "jessieewoo"
+      staff: ["jyxzhang", "jessieewoo"]
   Friday:
     - time: ['12:00', '13:00']
       staff: ["lperez", "kian", "idham", "lucdar"]
