@@ -39,7 +39,7 @@ staff-hours:
       
   Thursday:
     - time: ['17:00', '18:00']
-      staff: ["jyxzhang"]
+      staff: ["jyxzhang", "caseyli"]
   Friday:
     - time: ['12:00', '13:00']
       staff: ["lperez", "kian", "idham"]
