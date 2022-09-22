@@ -42,7 +42,7 @@ staff-hours:
       staff: ["jyxzhang", "jessieewoo"
   Friday:
     - time: ['12:00', '13:00']
-      staff: ["lperez", "kian", "idham"]
+      staff: ["lperez", "kian", "idham", "lucdar"]
       cancelled: false
     - time: ['15:00', '16:00']
       staff: ["adarshiyer", "dbibikar"]
