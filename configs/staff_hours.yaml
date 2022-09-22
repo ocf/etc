@@ -28,23 +28,23 @@ staff-hours:
     - time: ['12:30', '13:30']
       staff: ["anddone"]
     - time: ['15:00', '16:00']
-      staff: ["bencuan", "oliverni", "ianswong", "btorres"]
+      staff: ["bencuan", "oliverni", "ianswong", "btorres", "errorfourten"]
   Tuesday:
     - time: ['12:00', '13:00']
       staff: ["owent"]
       cancelled: false
   Wednesday:
     - time: ['17:00', '18:00']
-      staff: ["bryli"]
+      staff: ["rjz", "bryli"]
   Thursday:
     - time: ['17:00', '18:00']
-      staff: ["jyxzhang"]
+      staff: ["jyxzhang", "jessieewoo"
   Friday:
     - time: ['12:00', '13:00']
-      staff: ["lperez", "kian", "idham"]
+      staff: ["lperez", "kian", "idham", "lucdar"]
       cancelled: false
     - time: ['15:00', '16:00']
-      staff: ["adarshiyer"]
+      staff: ["adarshiyer", "dbibikar"]
   Saturday:
     - time: ['12:00', '13:00']
       staff: ["yehchanyoo"]
