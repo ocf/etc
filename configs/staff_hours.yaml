@@ -28,7 +28,7 @@ staff-hours:
     - time: ['12:30', '13:30']
       staff: ["anddone", "jaysag"]
     - time: ['15:00', '16:00']
-      staff: ["bencuan", "oliverni", "ianswong", "btorres", "errorfourten", "jlaurenceleigh"]
+      staff: ["bencuan", "oliverni", "ianswong", "errorfourten", "jlaurenceleigh"]
   Tuesday:
     - time: ['12:00', '13:00']
       staff: ["owent"]
@@ -38,7 +38,7 @@ staff-hours:
       staff: ["njha", "etw", "sungh"]
       cancelled: false
     - time: ['17:00', '18:00']
-      staff: ["rjz", "bryli"]
+      staff: ["rjz", "bryli", "btorres"]
       cancelled: false
   Thursday:
     - time: ['17:00', '18:00']
