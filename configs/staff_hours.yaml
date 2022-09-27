@@ -32,7 +32,7 @@ staff-hours:
   Tuesday:
     - time: ['12:00', '13:00']
       staff: ["owent"]
-      cancelled: false
+      cancelled: true
   Wednesday:
     - time: ['10:00', '11:00']
       staff: ["njha", "etw", "sungh"]
