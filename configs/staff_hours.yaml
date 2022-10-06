@@ -33,6 +33,8 @@ staff-hours:
     - time: ['12:00', '13:00']
       staff: ["owent"]
       cancelled: true
+    - time: ['19:00', '20:00']
+      staff: ["ncograin"]
   Wednesday:
     - time: ['10:00', '11:00']
       staff: ["njha", "etw", "sungh"]
