@@ -33,9 +33,6 @@ staff-hours:
     - time: ['12:00', '13:00']
       staff: ["owent"]
       cancelled: true
-    - time: ['19:00', '20:00']
-      staff: ["ncograin"]
-      cancelled: true
   Wednesday:
     - time: ['10:00', '11:00']
       staff: ["njha", "etw", "sungh"]
@@ -52,6 +49,9 @@ staff-hours:
       cancelled: false
     - time: ['15:00', '16:00']
       staff: ["adarshiyer", "dbibikar", "kanjencheng"]
+    - time: ['16:00', '17:00']
+      staff: ["ncograin"]
+      cancelled: false
   Saturday:
   Sunday:
 
