@@ -54,7 +54,7 @@ staff-hours:
       staff: ["adarshiyer", "dbibikar", "kanjencheng"]
     - time: ['16:00', '17:00']
       staff: ["ncograin"]
-      cancelled: true
+      cancelled: false
   Saturday:
   Sunday:
 
