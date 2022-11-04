@@ -257,3 +257,13 @@ holidays:
     reason: Summer Break
   - date: [2022-09-03, 2022-09-05]
     reason: Labor Day
+  - date: [2022-11-11, 2022-11-12]
+    reason: Veterans' Day
+  - date: 2022-11-05
+    reason: Internal Event # Alumni Banquet
+    hours:
+      - ['10:00', '16:00']
+  - date: [2022-11-24, 2022-11-27]
+    reason: Thanksgiving Break
+  - date: [2022-12-18, 2023-01-15]
+    reason: Winter Break
