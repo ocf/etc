@@ -35,20 +35,26 @@ staff-hours:
       cancelled: true
   Wednesday:
     - time: ['10:00', '11:00']
-      staff: ["njha", "etw", "sungh"]
+      staff: ["njha", "etw", "ooehmke"]
       cancelled: false
     - time: ['17:00', '18:00']
-      staff: ["rjz", "bryli", "btorres"]
+      staff: ["rjz", "bryli", "sungh"]
+      cancelled: true
+    - time: ['17:00', '18:00']
+      staff: ["btorres", "trinityc"]
       cancelled: false
   Thursday:
     - time: ['17:00', '18:00']
-      staff: ["jyxzhang", "jessieewoo", "caseyli"]
+      staff: ["jyxzhang", "jessieewoo", "caseyli", "ericyang"]
   Friday:
     - time: ['12:00', '13:00']
       staff: ["lperez", "kian", "idham", "lucdar"]
       cancelled: false
     - time: ['15:00', '16:00']
-      staff: ["adarshiyer", "dbibikar", "kanjencheng"]
+      staff: ["adarshiyer", "kanjencheng"]
+    - time: ['16:00', '17:00']
+      staff: ["ncograin"]
+      cancelled: true
   Saturday:
   Sunday:
 
