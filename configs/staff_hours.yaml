@@ -38,10 +38,10 @@ staff-hours:
       staff: ["njha", "etw", "ooehmke"]
       cancelled: false
     - time: ['17:00', '18:00']
-      staff: ["rjz", "bryli", "sungh"]
+      staff: ["rjz", "bryli", "sungh", "btorres"]
       cancelled: true
     - time: ['17:00', '18:00']
-      staff: ["btorres", "trinityc"]
+      staff: ["trinityc"]
       cancelled: false
   Thursday:
     - time: ['17:00', '18:00']
