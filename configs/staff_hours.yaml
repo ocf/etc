@@ -46,7 +46,7 @@ staff-hours:
   Friday:
     - time: ['12:00', '13:00']
       staff: ["lperez", "kian", "idham", "lucdar"]
-      cancelled: true
+      cancelled: false
     - time: ['15:00', '16:00']
       staff: ["adarshiyer", "kanjencheng"]
     - time: ['16:00', '17:00']
