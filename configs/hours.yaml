@@ -263,10 +263,10 @@ holidays:
       - ['10:00', '16:00']
   - date: [2022-11-11, 2022-11-12]
     reason: Veterans' Day
- - date: 2022-11-17
-   reason: MLK Closed
-   hours:
-     - ['9:00', '12:00']
+  - date: 2022-11-17
+    reason: MLK Closed
+    hours:
+      - ['9:00', '12:00']
   - date: [2022-11-24, 2022-11-27]
     reason: Thanksgiving Break
   - date: [2022-12-18, 2023-01-15]
