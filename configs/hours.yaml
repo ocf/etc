@@ -267,5 +267,13 @@ holidays:
     reason: MLK Closed
   - date: [2022-11-24, 2022-11-27]
     reason: Thanksgiving Break
-  - date: [2022-12-18, 2023-01-15]
+  - date: 2022-12-14
+    reason: Finals Week hours
+    hours:
+      - ['9:00', '20:00']
+  - date: 2022-12-16
+    reason: Finals Week hours
+    hours:
+      - ['9:00', '17:00']
+  - date: [2022-12-17, 2023-01-15]
     reason: Winter Break
