@@ -277,3 +277,5 @@ holidays:
       - ['9:00', '17:00']
   - date: [2022-12-17, 2023-01-15]
     reason: Winter Break
+  - date: [2023-01-16, 2023-01-22]
+    reason: Preparing for Reopening
