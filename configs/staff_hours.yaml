@@ -32,6 +32,9 @@ staff-hours:
   Wednesday:
   Thursday:
   Friday:
+    - time: ['12:10', '13:00']
+      staff: ["kian"]
+      cancelled: false
   Saturday:
   Sunday:
 
