@@ -49,5 +49,7 @@ staff-positions:
    position: "Site Manager"
  - username: "anddone"
    position: "External Head"
+ - username: "ethanhu"
+   position: "Internal and External Head"
 
 # vim: set expandtab:ts=4:sw=4
