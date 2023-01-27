@@ -33,7 +33,7 @@ staff-hours:
   Thursday:
   Friday:
     - time: ['12:10', '13:00']
-      staff: ["kian"]
+      staff: ["kian", "amangalampalli"]
       cancelled: false
     - time: ['17:10', '18:00']
       staff: ["btorres"]
@@ -54,6 +54,8 @@ staff-positions:
    position: "External Head"
  - username: "ethanhu"
    position: "Internal and External Head"
+ - username: "amangalampalli"
+   position: "Finance Head"
  - username: "btorres"
    position: "External Head"
 
