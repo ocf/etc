@@ -28,7 +28,7 @@ staff-hours:
   Tuesday:
     - time: ['14:10', '15:00']
       staff: ["ncograin"]
-      cancellled: false
+      cancelled: false
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
   Wednesday:
