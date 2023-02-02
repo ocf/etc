@@ -37,7 +37,7 @@ staff-hours:
     - time: ['12:10', '13:00']
       staff: ["kian", "amangalampalli"]
       cancelled: false
-    - time: ['17:10', '18:00']
+    - time: ['15:10', '16:00']
       staff: ["btorres"]
       cancelled: false
   Saturday:
