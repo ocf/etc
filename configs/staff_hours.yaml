@@ -32,7 +32,7 @@ staff-hours:
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
   Wednesday:
-    - time: ['14:10', '15:00']
+    - time: ['12:10', '13:00']
       staff: ['bencuan']
     - time: ['17:10', '18:00']
       staff: ['etw', 'njha']
