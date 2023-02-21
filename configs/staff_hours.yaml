@@ -26,14 +26,15 @@
 staff-hours:
   Monday:
   Tuesday:
+    - time: ['11:30', '12:30']
+      staff: ["btorres"]
+      cancelled: false
     - time: ['14:10', '15:00']
       staff: ["ncograin"]
       cancelled: true
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
-    - time: ['11:30', '12:30']
-      staff: ["btorres"]
-      cancelled: false
+
   Wednesday:
     - time: ['12:10', '13:00']
       staff: ['bencuan']
