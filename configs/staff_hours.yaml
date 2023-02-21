@@ -31,6 +31,9 @@ staff-hours:
       cancelled: true
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
+    - time: ['11:30', '12:30']
+      staff: ["btorres"]
+      cancelled: false
   Wednesday:
     - time: ['12:10', '13:00']
       staff: ['bencuan']
@@ -42,9 +45,6 @@ staff-hours:
   Friday:
     - time: ['12:10', '13:00']
       staff: ["kian", "amangalampalli"]
-      cancelled: true
-    - time: ['13:30', '14:30']
-      staff: ["btorres"]
       cancelled: true
   Saturday:
   Sunday:
