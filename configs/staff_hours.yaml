@@ -41,6 +41,9 @@ staff-hours:
     - time: ['17:10', '18:00']
       staff: ['etw', 'njha']
   Thursday:
+  - time: ['13:00', '14:00']
+      staff: ["btorres"]
+      cancelled: false
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
   Friday:
