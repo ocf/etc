@@ -7,15 +7,14 @@ force_lab_closed: false
 # please remember: the banner is for urgent announcements!
 # consider adding something to the website normally if it's not urgent or you
 # plan to leave it there for a while.
-banner_visible: false
+banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header"><b>Spring 2022</b> Lab Update</h4>
+    <h4 id="banner-header"><b>Subdomains for Student Organizations</b></h4>
     <p>
-      We're open!<br />
-      We have resumed our regular hours.<br /><br />
-      See you in the lab!
+      The university is planning to revoke berkeley.edu subdomains for student organizations.<br />
+      See <a href="https://www.ocf.berkeley.edu/announcements/2023-03-01/subdomains">ocf.io/subdomains</a> for more information and ways you can help oppose this change!
     </p>
   </div>
   <style>
