@@ -37,7 +37,7 @@ staff-hours:
 
   Wednesday:
     - time: ['12:10', '13:00']
-      staff: ['bencuan']
+      staff: ['bencuan', 'kashun']
       cancelled: true
     - time: ['17:10', '18:00']
       staff: ['etw', 'njha']
