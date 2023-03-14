@@ -26,7 +26,7 @@
 staff-hours:
   Monday:
     - time: ['8:30', '9:30']
-      staff: ['someprinter'] 
+      staff: ['someprinter']
   Tuesday:
     - time: ['11:30', '12:30']
       staff: ["btorres"]
