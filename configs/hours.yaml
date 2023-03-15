@@ -279,3 +279,7 @@ holidays:
     reason: Winter Break
   - date: [2023-01-16, 2023-01-22]
     reason: Preparing for Reopening
+  - date: 2023-03-15
+    reason: Internal Event # Palo Alto Networks Infosession
+    hours:
+      - ['9:00', '18:30']
