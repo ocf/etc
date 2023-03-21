@@ -33,7 +33,7 @@ staff-hours:
       cancelled: true
     - time: ['14:10', '15:00']
       staff: ["ncograin"]
-      cancelled: true
+      cancelled: false
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
 
