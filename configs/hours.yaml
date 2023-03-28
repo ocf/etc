@@ -283,5 +283,5 @@ holidays:
     reason: Internal Event # Palo Alto Networks Infosession
     hours:
       - ['9:00', '18:30']
-  - date: [2022-03-25, 2020-04-02]
+  - date: [2023-03-25, 2023-04-02]
     reason: Spring Break
