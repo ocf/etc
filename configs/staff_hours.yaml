@@ -46,7 +46,7 @@ staff-hours:
   Thursday:
     - time: ['13:00', '14:00']
       staff: ["btorres"]
-      cancelled: false
+      cancelled: true
     - time: ['14:10', '15:30']
       staff: ['adarshiyer']
   Friday:
