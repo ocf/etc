@@ -285,3 +285,7 @@ holidays:
       - ['9:00', '18:30']
   - date: [2023-03-25, 2023-04-02]
     reason: Spring Break
+  - date: 2023-04-26
+    reason: Building Event  # building fire drill
+    hours:
+      - ['9:30', '19:00']
