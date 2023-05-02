@@ -289,3 +289,27 @@ holidays:
     reason: Building Event  # building fire drill
     hours:
       - ['9:30', '19:00']
+  - date: 2023-05-01
+    reason: RRR Week hours
+    hours:
+      - ['9:00', '22:00']
+  - date: 2023-05-02
+    reason: RRR Week hours
+    hours:
+      - ['8:00', '20:00']
+  - date: 2023-05-03
+    reason: RRR Week hours
+    hours:
+      - ['9:00', '22:00']
+  - date: 2023-05-04
+    reason: RRR Week hours
+    hours:
+      - ['9:00', '20:00']
+  - date: 2023-05-05
+    reason: RRR Week hours
+    hours:
+      - ['8:00', '21:00']
+  - date: 2023-05-06
+    reason: RRR Week hours
+    hours:
+      - ['10:00', '20:00']
