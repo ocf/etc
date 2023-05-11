@@ -11,7 +11,7 @@ from subprocess import check_call
 def get_cache_dir() -> Path:
     p = os.getenv(
         'OCF_CACHE_DIR', os.getenv(
-        'XDG_CACHE_HOME', Path.home() / '.cache',
+            'XDG_CACHE_HOME', Path.home() / '.cache',
         ),
     )
     return Path(p).resolve() / 'ocf-etc'
