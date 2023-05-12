@@ -55,7 +55,7 @@ staff-hours:
   Friday:
     - time: ['12:10', '13:00']
       staff: ["kian", "amangalampalli", "lperez"]
-      cancelled: false
+      cancelled: true
   Saturday:
   Sunday:
 
