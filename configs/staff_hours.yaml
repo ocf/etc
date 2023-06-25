@@ -25,37 +25,10 @@
 
 staff-hours:
   Monday:
-    - time: ['8:30', '9:30']
-      staff: ['someprinter']
-    - time: ['12:00', '2:00']
-      staff: ['jaysa']
   Tuesday:
-    - time: ['11:30', '12:30']
-      staff: ["btorres"]
-      cancelled: true
-    - time: ['14:10', '15:00']
-      staff: ["ncograin"]
-      cancelled: true
-    - time: ['14:10', '15:30']
-      staff: ['adarshiyer']
-
   Wednesday:
-    - time: ['12:10', '13:00']
-      staff: ['bencuan', 'kashun']
-      cancelled: true
-    - time: ['17:10', '18:00']
-      staff: ['etw', 'njha']
-      cancelled: true
   Thursday:
-    - time: ['13:00', '14:00']
-      staff: ["btorres"]
-      cancelled: true
-    - time: ['14:10', '15:30']
-      staff: ['adarshiyer']
   Friday:
-    - time: ['12:10', '13:00']
-      staff: ["kian", "amangalampalli", "lperez"]
-      cancelled: true
   Saturday:
   Sunday:
 
