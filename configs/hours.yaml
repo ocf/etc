@@ -313,5 +313,5 @@ holidays:
     reason: RRR Week hours
     hours:
       - ['10:00', '20:00']
-  - date: [2023-05-13, 2023-08-21]
+  - date: [2023-05-13, 2023-08-27]
     reason: Summer Break
