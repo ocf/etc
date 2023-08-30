@@ -28,6 +28,8 @@ staff-hours:
   Tuesday:
   Wednesday:
   Thursday:
+  - time: ['14:10', '16:00']
+    staff: ["jaysa"]
   Friday:
   Saturday:
   Sunday:
