@@ -28,6 +28,8 @@ staff-hours:
   Tuesday:
   - time: ['14:20', '16:00']
     staff: ["oliverni"]
+  - time: ['17:00', '19:00']
+    staff: ["adi"]
   Wednesday:
   Thursday:
   - time: ['14:10', '16:00']
@@ -54,7 +56,7 @@ staff-positions:
    position: "External Head"
  - username: "ethanhu"
    position: "Internal and External Head"
- - username: "amangalampalli"
+ - username: "adi"
    position: "Finance Head"
  - username: "btorres"
    position: "External Head"
