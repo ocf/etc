@@ -26,6 +26,8 @@
 staff-hours:
   Monday:
   Tuesday:
+  - time: ['14:20', '16:00']
+    staff: ["oliverni"]
   Wednesday:
   Thursday:
   - time: ['14:10', '16:00']
