@@ -33,6 +33,9 @@ staff-hours:
   - time: ['14:10', '15:00']
     staff: ["btorres"]
   Friday:
+  - time: ['11:10', '12:00']
+    staff: ["ncograin"]
+    cancelled: true
   Saturday:
   Sunday:
 
