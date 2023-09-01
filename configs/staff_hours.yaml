@@ -48,20 +48,20 @@ staff-hours:
   Sunday:
 
 staff-positions:
- - username: "ncograin"
+ - username: "dapark"
    position: "General Manager"
- - username: "kian"
+ - username: "jaysa"
    position: "General Manager"
- - username: "etw"
+ - username: "oliverni"
    position: "Site Manager"
- - username: "njha"
+ - username: "rjz"
    position: "Site Manager"
  - username: "anddone"
    position: "External Head"
  - username: "ethanhu"
-   position: "Internal and External Head"
+   position: "External Head"
  - username: "adi"
-   position: "Finance Head"
+   position: "Finance and DeCal Head"
  - username: "btorres"
    position: "External Head"
 
