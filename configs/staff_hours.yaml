@@ -44,18 +44,24 @@ staff-hours:
     cancelled: true
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
+  - time: ['9:00', '11:30']
+    staff: ["ethanhu"]
   Saturday:
   Sunday:
 
 staff-positions:
  - username: "ncograin"
-   position: "General Manager"
+   position: "General Manager Emeritus"
  - username: "kian"
+   position: "General Manager Emeritus"
+ - username: "jaysa"
+   position: "General Manager"
+ - username: "dapark"
    position: "General Manager"
  - username: "etw"
-   position: "Site Manager"
+   position: "Site Manager Emeritus"
  - username: "njha"
-   position: "Site Manager"
+   position: "Site Manager Emeritus"
  - username: "anddone"
    position: "External Head"
  - username: "ethanhu"
