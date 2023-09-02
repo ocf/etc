@@ -2,7 +2,7 @@ regular:
   Monday:
     - ['9:00', '20:00']
   Tuesday:
-    - ['9:00', '20:00']
+    - ['9:00', '19:00']
   Wednesday:
     - ['9:00', '19:00']
   Thursday:
@@ -315,3 +315,5 @@ holidays:
       - ['10:00', '20:00']
   - date: [2023-05-13, 2023-08-27]
     reason: Summer Break
+  - date: 2023-09-04
+    reason: Labor Day
