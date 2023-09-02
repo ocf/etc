@@ -26,7 +26,7 @@
 staff-hours:
   Monday:
   - time: ['11:00', '12:00']
-    staff: ["jaysa"]
+    staff: ["jaysa", "rjz"]
   Tuesday:
   - time: ['14:20', '16:00']
     staff: ["oliverni"]
@@ -58,6 +58,8 @@ staff-positions:
    position: "General Manager"
  - username: "dapark"
    position: "General Manager"
+ - username: "rjz"
+   position: "OCF サイトマネージャー"
  - username: "etw"
    position: "Site Manager Emeritus"
  - username: "njha"
