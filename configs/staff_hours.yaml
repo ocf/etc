@@ -36,6 +36,8 @@ staff-hours:
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
   Thursday:
+  - time: ['11:10', '12:30']
+    staff: ["kian"]
   - time: ['14:10', '15:00']
     staff: ["btorres"]
   Friday:
