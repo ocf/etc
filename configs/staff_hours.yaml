@@ -26,8 +26,10 @@
 staff-hours:
   Monday:
   - time: ['11:00', '12:00']
-    staff: ["jaysa"]
+    staff: ["jaysa", "rjz"]
   Tuesday:
+  - time: ['8:30', '11:00']
+    staff: ["ethanhu"]
   - time: ['14:20', '16:00']
     staff: ["oliverni"]
   - time: ['17:00', '19:00']
@@ -36,6 +38,8 @@ staff-hours:
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
   Thursday:
+  - time: ['11:10', '12:30']
+    staff: ["kian"]
   - time: ['14:10', '15:00']
     staff: ["btorres"]
   Friday:
@@ -44,18 +48,28 @@ staff-hours:
     cancelled: true
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
+  - time: ['9:00', '11:30']
+    staff: ["ethanhu"]
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "dapark"
-   position: "General Manager"
+ - username: "ncograin"
+   position: "General Manager Emeritus"
+ - username: "kian"
+   position: "General Manager Emeritus"
  - username: "jaysa"
+   position: "General Manager"
+ - username: "dapark"
    position: "General Manager"
  - username: "oliverni"
    position: "Site Manager"
  - username: "rjz"
-   position: "Site Manager"
+   position: "It's Morbin' Time"
+ - username: "etw"
+   position: "Site Manager Emeritus"
+ - username: "njha"
+   position: "Site Manager Emeritus"
  - username: "anddone"
    position: "External Head"
  - username: "ethanhu"
