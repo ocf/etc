@@ -317,3 +317,7 @@ holidays:
     reason: Summer Break
   - date: 2023-09-04
     reason: Labor Day
+  - date: 2023-09-16
+    reason: Ice cream & hiking social
+    hours:
+      - ['10:00', '16:00']
