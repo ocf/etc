@@ -41,7 +41,7 @@ staff-hours:
   - time: ['13:00', '15:00']
     staff: ["trinityc"]
   Thursday:
-  - time: ['14:10', '15:00']
+  - time: ['11:30', '12:30']
     staff: ["btorres"]
   Friday:
   - time: ['10:15', '11:15']
