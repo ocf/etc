@@ -49,8 +49,6 @@ staff-hours:
     cancelled: true
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
-  - time: ['9:00', '11:30']
-    staff: ["ethanhu"]
   Saturday:
   Sunday:
 
