@@ -26,7 +26,10 @@
 staff-hours:
   Monday:
   - time: ['11:00', '12:00']
-    staff: ["jaysa", "rjz"]
+    staff: ["jaysa"]
+  - time: ['11:00', '12:00']
+    staff: ["rjz"]
+    cancelled: true
   Tuesday:
   - time: ['8:30', '11:00']
     staff: ["ethanhu"]
