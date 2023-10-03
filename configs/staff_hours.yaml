@@ -39,8 +39,6 @@ staff-hours:
   - time: ['17:00', '19:00']
     staff: ["adi"]
   Wednesday:
-  - time: ['11:00', '12:00']
-    staff: ["jaysa"]
   - time: ['13:00', '15:00']
     staff: ["trinityc"]
   Thursday:
