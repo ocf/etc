@@ -41,10 +41,9 @@ staff-hours:
   Wednesday:
   - time: ['13:00', '15:00']
     staff: ["trinityc"]
-  Thursday:
-  - time: ['11:30', '12:30']
+  - time: ['8:00', '9:00']
     staff: ["btorres"]
-    cancelled: true
+  Thursday:
   Friday:
   - time: ['10:15', '11:15']
     staff: ["ncograin"]
