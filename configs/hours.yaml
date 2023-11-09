@@ -325,3 +325,5 @@ holidays:
     reason: Reduced Hours for Internal Event # Halloween social
     hours:
       - ['12:00', '17:00']
+  - date: [2023-11-20, 2023-11-25]
+    reason: Thanksgiving Break
