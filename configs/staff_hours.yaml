@@ -33,9 +33,6 @@ staff-hours:
   - time: ['8:30', '11:00']
     staff: ["ethanhu"]
     cancelled: true
-  - time: ['14:20', '16:00']
-    staff: ["oliverni"]
-    cancelled: true
   Wednesday:
   - time: ['13:00', '15:00']
     staff: ["trinityc"]
