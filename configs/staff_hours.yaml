@@ -29,27 +29,20 @@ staff-hours:
     staff: ["jaysa"]
   - time: ['11:00', '12:00']
     staff: ["rjz"]
-    cancelled: true
   Tuesday:
   - time: ['8:30', '11:00']
     staff: ["ethanhu"]
-  - time: ['14:20', '16:00']
-    staff: ["oliverni"]
     cancelled: true
-  - time: ['17:00', '19:00']
-    staff: ["adi"]
   Wednesday:
   - time: ['13:00', '15:00']
     staff: ["trinityc"]
     cancelled: true
-  - time: ['8:00', '9:00']
-    staff: ["btorres"]
-    cancelled: true
+  - time: ['16:00', '18:00']
+    staff: ["adi"]
+  - time: ['16:00', '19:00']
+    staff: ["oliverni"]
   Thursday:
   Friday:
-  - time: ['10:15', '11:15']
-    staff: ["ncograin"]
-    cancelled: true
   - time: ['11:00', '12:00']
     staff: ["jaysa"]
   Saturday:
