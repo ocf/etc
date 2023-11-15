@@ -41,7 +41,7 @@ staff-hours:
     staff: ["adi"]
   - time: ['16:00', '19:00']
     staff: ["oliverni"]
-  - cancelled: true
+    cancelled: true
   Thursday:
   Friday:
   - time: ['11:00', '12:00']
