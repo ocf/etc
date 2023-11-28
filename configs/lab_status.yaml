@@ -11,10 +11,10 @@ banner_visible: true
 
 banner_html: |
   <div class="update-banner" id="banner">
-    <h4 id="banner-header"><b>Subdomains for Student Organizations</b></h4>
+    <h4 id="banner-header"><b>Student Organizations Subdomain Migration</b></h4>
     <p>
-      The university is revoking berkeley.edu subdomains for student organizations in favor of studentorg.berkeley.edu. New subdomain requests are temporarily blocked.<br />
-      See <a href="https://www.ocf.berkeley.edu/announcements/2023-03-01/subdomains">ocf.io/subdomains</a> for more information.
+      The university is migrating berkeley.edu subdomains for student organizations to studentorg.berkeley.edu.<br />
+      See <a href="https://www.ocf.berkeley.edu/docs/services/vhost/subdomain-migration/">ocf.io/s/subdomain-migration</a> for the actions that your group will need to take.
     </p>
   </div>
   <style>
