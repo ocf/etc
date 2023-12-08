@@ -329,3 +329,11 @@ holidays:
     reason: Veteran's Day
   - date: [2023-11-20, 2023-11-25]
     reason: Thanksgiving Break
+  - date: 2023-12-08
+    reason: Extended hours
+    hours:
+    - ['9:00', '21:00']
+  - date: 2023-12-09
+    reason: Internal Event
+    hours:
+    - ['12:00', '17:00']
