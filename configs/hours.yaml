@@ -337,3 +337,5 @@ holidays:
     reason: Internal Event
     hours:
     - ['12:00', '17:00']
+  - date: [2023-12-25, 2023-01-21]
+    reason: Winter Break
