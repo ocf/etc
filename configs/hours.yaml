@@ -337,3 +337,7 @@ holidays:
     reason: Internal Event
     hours:
     - ['12:00', '17:00']
+  - date: [2024-01-12, 2024-01-15]
+    reason: Winter Break
+  - date: [2024-01-16, 2024-01-21]
+    reason: Preparing for Reopening
