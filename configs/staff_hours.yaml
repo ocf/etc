@@ -25,27 +25,10 @@
 
 staff-hours:
   Monday:
-  - time: ['11:00', '12:00']
-    staff: ["jaysa"]
-  - time: ['11:00', '12:00']
-    staff: ["rjz"]
   Tuesday:
-  - time: ['8:30', '11:00']
-    staff: ["ethanhu"]
-    cancelled: true
   Wednesday:
-  - time: ['13:00', '15:00']
-    staff: ["trinityc"]
-    cancelled: true
-  - time: ['16:00', '18:00']
-    staff: ["adi"]
-  - time: ['16:00', '19:00']
-    staff: ["oliverni"]
-    cancelled: true
   Thursday:
   Friday:
-  - time: ['11:00', '12:00']
-    staff: ["jaysa"]
   Saturday:
   Sunday:
 
