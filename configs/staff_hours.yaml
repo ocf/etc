@@ -28,7 +28,7 @@ staff-hours:
   Tuesday:
   Wednesday:
     - time: ['16:00', '18:00']
-      staf: ["trinityc"]
+      staff: ["trinityc"]
   Thursday:
   Friday:
   Saturday:
