@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ocf.berkeley.edu/schemas/past_officers.schema.json",
+  "type": "object",
+  "properties": {
+    "terms": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/term"
+      }
+    }
+  },
+  "required": [
+    "terms"
+  ],
+  "$defs": {
+    "term": {
+      "type": "object",
+      "required": [
+        "termSemester",
+        "termOfficers"
+      ],
+      "properties": {
+        "termSemester": {
+          "type": "string"
+        },
+        "termOfficers": {
+          "type": "object",
+          "required": [
+            "gms",
+            "sms"
+          ],
+          "properties": {
+            "gms":{
+              "type": "array",
+              "items": 
+                {
+                  "$ref": "#/$defs/pastOfficer"
+                }
+            },
+            "sms":{
+              "type": "array",
+              "items": 
+                {
+                  "$ref": "#/$defs/pastOfficer"
+                }
+            },
+            "gmsDeputies":{
+              "type": "array",
+              "items": 
+                {
+                  "$ref": "#/$defs/pastOfficer"
+                }
+            },
+            "smsDeputies":{
+              "type": "array",
+              "items": 
+                {
+                  "$ref": "#/$defs/pastOfficer"
+                }
+            },
+            "committeeHeads":{
+              "type": "array",
+              "items": 
+                {
+                  "$ref": "#/$defs/pastOfficer"
+                }
+            }
+          }
+        }
+      }
+    },
+    "pastOfficer": {
+      "type": "object",
+      "required": [
+        "officerHandle",
+        "officerFirstName",
+        "officerLastName"
+      ],
+      "properties": {
+        "officerHandle": {
+          "type": "string"
+        },
+        "officerFirstName": {
+          "type": "string"
+        },
+        "officerLastName": {
+          "type": "string"
+        },
+        "officerStart": {
+          "type": "string"
+        },
+        "officerEnd": {
+          "type": "string"
+        },
+        "committee":{
+          "type": "string"
+        }
+      }
+    }
+  }
+}
