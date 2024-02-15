@@ -4,13 +4,13 @@ regular:
   Tuesday:
     - ['9:00', '19:00']
   Wednesday:
-    - ['9:00', '19:00']
+    - ['9:00', '20:00']
   Thursday:
     - ['9:00', '20:00']
   Friday:
     - ['9:00', '20:00']
   Saturday:
-    - ['10:00', '18:00']
+    - ['12:00', '18:00']
   Sunday: null
 holidays:
   - date: [2018-11-21, 2018-11-25]
@@ -341,3 +341,5 @@ holidays:
     reason: Winter Break
   - date: [2024-01-16, 2024-01-21]
     reason: Preparing for Reopening
+  - date: 2024-02-19
+    reason: Presidents\u0027 Day
