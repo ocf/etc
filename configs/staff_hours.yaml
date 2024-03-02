@@ -26,10 +26,14 @@
 staff-hours:
   Monday:
   Tuesday:
+    - time: ['13:00', '14:00']
+      staff: ["ronitnath"]
   Wednesday:
     - time: ['16:00', '18:00']
       staff: ["trinityc"]
   Thursday:
+      - time: ['13:00', '14:00']
+      staff: ["ronitnath"]
   Friday:
   Saturday:
   Sunday:
@@ -61,5 +65,7 @@ staff-positions:
    position: "External Head"
  - username: "trinityc"
    position: "DeCal Head"
+ - username: "ronitnath"
+   position: "General Manager"
 
 # vim: set expandtab:ts=4:sw=4
