@@ -1,11 +1,12 @@
+#!/usr/bin/env python3
+
 import argparse
 import logging
 import os
 import shutil
 import time
 from pathlib import Path
-from subprocess import CalledProcessError
-from subprocess import check_call
+from subprocess import CalledProcessError, check_call
 
 
 def get_cache_dir() -> Path:
