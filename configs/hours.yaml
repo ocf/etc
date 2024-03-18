@@ -359,5 +359,5 @@ holidays:
     reason: MLK Building Early Closure
     hours:
       - ['9:00', '17:00']
-  - date: [2024-03-29]
+  - date: 2024-03-29
     reason: MLK Closed in Observance of Holiday
