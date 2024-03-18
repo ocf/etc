@@ -343,3 +343,21 @@ holidays:
     reason: Preparing for Reopening
   - date: 2024-02-19
     reason: Presidents' Day
+  - date: 2024-03-18
+    reason: MLK Building Early Closure
+    hours:
+      - ['9:00', '17:00']
+  - date: 2024-03-22
+    reason: MLK Building Early Closure
+    hours:
+      - ['9:00', '17:00']
+  - date: 2024-03-23
+    reason: MLK Building Early Closure
+    hours:
+      - ['12:00', '17:00']
+  - date: [2024-03-25, 2024-03-28]
+    reason: MLK Building Early Closure
+    hours:
+      - ['9:00', '17:00']
+  - date: [2024-03-29]
+    reason: MLK Closed in Observance of Holiday
