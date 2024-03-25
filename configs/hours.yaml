@@ -353,5 +353,9 @@ holidays:
       - ['9:00', '17:00']
   - date: 2024-03-23
     reason: MLK Building Early Closure
-  - date: [2024-03-25, 2024-03-30]
+    hours:
+      - ['12:00', '17:00']
+  - date: [2024-03-25, 2024-03-28]
     reason: Spring Break
+  - date: 2024-03-29
+    reason: MLK Closed in Observance of Holiday
