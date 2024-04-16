@@ -26,8 +26,6 @@
 staff-hours:
   Monday:
   Tuesday:
-    - time: ['13:00', '14:00']
-      staff: ["ronitnath"]
   Wednesday:
     - time: ['16:00', '18:00']
       staff: ["trinityc"]
