@@ -359,3 +359,5 @@ holidays:
     reason: Spring Break
   - date: 2024-03-29
     reason: MLK Closed in Observance of Holiday
+  - date: [2024-05-22, 2024-09-02]
+    reason: Summer Break
