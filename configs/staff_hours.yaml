@@ -25,18 +25,20 @@
 
 staff-hours:
   Monday:
+    - ['14:00', '18:00']
+    - ["storce"]
   Tuesday:
-  Wednesday:
+  Wednesday: 
+    - ['14:00', '18:00']
+    - ["storce"]
   Thursday:
   Friday:
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "ncograin"
-   position: "General Manager Emeritus"
  - username: "kian"
-   position: "General Manager Emeritus"
+   position: "Decal Head"
  - username: "jaysa"
    position: "General Manager"
  - username: "dapark"
@@ -51,15 +53,15 @@ staff-positions:
    position: "Site Manager Emeritus"
  - username: "anddone"
    position: "External Head"
- - username: "ethanhu"
-   position: "External Head"
  - username: "adi"
-   position: "Finance and DeCal Head"
+   position: "Finance Head"
  - username: "btorres"
    position: "External Head"
  - username: "trinityc"
    position: "DeCal Head"
  - username: "ronitnath"
    position: "General Manager"
+ - username: "storce"
+   position: "External Head"
 
 # vim: set expandtab:ts=4:sw=4
