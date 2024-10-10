@@ -371,5 +371,5 @@ holidays:
     reason: Thanksgiving Break
   - date: [2024-12-21, 2025-01-20]
     reason: Winter Break
-  - date: [2024-01-21]
+  - date: 2024-01-21
     reason: Martin Luther King Jr. Day
