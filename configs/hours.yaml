@@ -367,7 +367,7 @@ holidays:
       - ['16:00', '18:00']
   - date: 2024-11-11
     reason: Veteran's Day
-  - date: [2024-11-28, 2024-11-30]
+  - date: [2024-11-27, 2024-11-30]
     reason: Thanksgiving Break
   - date: [2024-12-21, 2025-01-20]
     reason: Winter Break
