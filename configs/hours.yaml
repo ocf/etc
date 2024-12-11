@@ -373,7 +373,7 @@ holidays:
     reason: RRR Week Hours
     hours:
       - ['9:00', '20:00']
-  - date: 2024-12-10
+  - date: 2024-12-12
     reason: RRR Week Hours
     hours:
       - ['9:00', '20:00']
