@@ -4,7 +4,7 @@ regular:
   Tuesday:
     - ['9:00', '19:00']
   Wednesday:
-    - ['9:00', '19:00']
+    - ['9:00', '18:00']
   Thursday:
     - ['9:00', '19:00']
   Friday:
@@ -389,7 +389,7 @@ holidays:
     reason: Finals Week Hours
     hours:
       - ['9:00', '20:00']
-  - date: [2024-12-21, 2025-01-20]
+  - date: [2024-12-21, 2025-01-26]
     reason: Winter Break
   - date: 2025-01-21
     reason: Martin Luther King Jr. Day
