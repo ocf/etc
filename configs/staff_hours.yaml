@@ -26,22 +26,22 @@
 staff-hours:
   Monday:
     - time: ['11:00', '14:00']
-      staff: ["joe"]
+      staff: ["storce"]
   Tuesday:
   Wednesday:
     - time: ['11:00', '14:00']
-      staff: ["joe"]
+      staff: ["storce"]
     - time: ['16:00', '18:00']
-      staff: ["joe"]
+      staff: ["storce"]
   Thursday:
   Friday:
   Saturday:
   Sunday:
 
 staff-positions:
- - username: "joe"
+ - username: "storce"
    position: "General Manager"
- - username: "ronit"
+ - username: "ronitnath"
    position: "General Manager"
  - username: "oliverni"
    position: "Site Manager"
@@ -49,7 +49,7 @@ staff-positions:
    position: "Site Manager"
  - username: "rjz"
    position: "It's Morbin' Time"
- - username: "LukeP"
+ - username: "lujkep"
    position: "Internal Head"
  - username: "jaysa"
    position: "Finance Head"
