@@ -6,4 +6,4 @@ name = 'etc'
 
 
 def images():
-    yield Image(name='sync', path=Path('/sync'))
+    yield Image(name='sync', path=Path('/sync'), registry='ghcr')
