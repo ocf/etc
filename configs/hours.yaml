@@ -391,5 +391,5 @@ holidays:
       - ['9:00', '20:00']
   - date: [2024-12-21, 2025-01-26]
     reason: Winter Break
-  - date: 2025-02-15
+  - date: 2025-02-17
     reason: Presidents Day
