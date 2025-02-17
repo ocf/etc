@@ -393,3 +393,5 @@ holidays:
     reason: Winter Break
   - date: 2025-02-17
     reason: Presidents Day
+  - date: [2025-03-24, 2025-03-28]
+    reason: Spring Break
