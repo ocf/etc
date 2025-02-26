@@ -25,15 +25,15 @@
 
 # - time: ['11:00', '14:00']
 #   staff: ["storce"]
+# - time: ['11:00', '13:00']
+#   staff: ["storce"]
+# - time: ['16:00', '18:00']
+#   staff: ["storce"]
 
 staff-hours:
   Monday:
   Tuesday:
   Wednesday:
-    - time: ['11:00', '13:00']
-      staff: ["storce"]
-    - time: ['16:00', '18:00']
-      staff: ["storce"]
   Thursday:
   Friday:
     - time: ['15:00', '16:00']
