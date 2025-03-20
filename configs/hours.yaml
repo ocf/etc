@@ -393,3 +393,17 @@ holidays:
     reason: Winter Break
   - date: 2025-02-17
     reason: Presidents Day
+  - date: 2025-03-21
+    reason: Spring Break
+    hours:
+      - ['9:00', '17:00']
+  - date: 2025-03-22
+    reason: Spring Break
+    hours:
+      - ['9:00', '17:00']
+  - date: [2025-03-24, 2025-03-27]
+    reason: Spring Break
+    hours:
+      - ['9:00', '17:00']
+  - date: [2025-03-28, 2025-03-30]
+    reason: Spring Break
