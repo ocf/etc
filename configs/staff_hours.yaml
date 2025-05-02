@@ -30,14 +30,8 @@ staff-hours:
     #   staff: ["storce"]
   Tuesday:
   Wednesday:
-    - time: ['11:00', '13:00']
-      staff: ["storce"]
-    - time: ['16:00', '18:00']
-      staff: ["storce"]
   Thursday:
   Friday:
-    - time: ['15:00', '16:00']
-      staff: ["storce"]
   Saturday:
   Sunday:
 
