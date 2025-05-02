@@ -403,3 +403,8 @@ holidays:
       - ['9:00', '17:00']
   - date: [2025-03-28, 2025-03-30]
     reason: Spring Break
+    
+  - date: 2025-05-02
+    reason: Nix Meetup
+    hours:
+      - ['9:00', '18:00']
