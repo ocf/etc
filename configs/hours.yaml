@@ -408,7 +408,7 @@ holidays:
     reason: Nix Meetup
     hours:
       - ['9:00', '18:00']
-- date: [2025-05-06, 2025-05-15]
+  - date: [2025-05-06, 2025-05-15]
     reason: RRR and Finals Week expansion
     hours:
       - ['9:00', '20:00']
