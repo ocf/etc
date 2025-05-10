@@ -412,7 +412,7 @@ holidays:
     reason: RRR Week expansion
     hours:
       - ['9:00', '20:00']
-  - date: [2025-05-10]
+  - date: 2025-05-10
     reason: RRR Week Saturday Hours
     hours:
       - ['10:00', '17:00']
