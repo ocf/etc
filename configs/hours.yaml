@@ -403,7 +403,6 @@ holidays:
       - ['9:00', '17:00']
   - date: [2025-03-28, 2025-03-30]
     reason: Spring Break
-    
   - date: 2025-05-02
     reason: Nix Meetup
     hours:
@@ -416,3 +415,9 @@ holidays:
     reason: RRR Week Saturday Hours
     hours:
       - ['10:00', '17:00']
+  - date: [2025-05-12, 2025-05-16]
+    reason: Finals Week expansion
+    hours:
+      - ['09:00', '20:00']
+  - date: [2025-05-17, 2025-08-26]
+    reason: Summer Break
