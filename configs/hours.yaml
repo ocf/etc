@@ -423,7 +423,8 @@ holidays:
     reason: Summer Break
   - date: [2025-08-27, 2025-08-30]
     reason: First Week of Instruction
-  - date: [2025-11-08]
-    reason: Closed For Event
   - date: 2025-09-01
     reason: Labor Day
+  - date: 2025-11-08
+    reason: Closed For BMT Event
+
