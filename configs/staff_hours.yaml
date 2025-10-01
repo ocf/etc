@@ -31,7 +31,7 @@ staff-hours:
   Tuesday:
      - time: ['12:00', '14:00']
        staff: ["sbwilliams"]
-  #Wednesday:
+  Wednesday:
   #   - time: ['11:00', '12:00']
   #     staff: ["sbwilliams"]
   Thursday:
