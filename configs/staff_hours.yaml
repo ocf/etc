@@ -26,19 +26,19 @@
 
 staff-hours:
   Monday:
-     - time: ['13:00', '14:00']
+     - time: ['11:00', '12:00']
        staff: ["sbwilliams"]
   Tuesday:
      - time: ['12:00', '14:00']
        staff: ["sbwilliams"]
-  Wednesday:
-     - time: ['11:00', '12:00']
-       staff: ["sbwilliams"]
+  #Wednesday:
+  #   - time: ['11:00', '12:00']
+  #     staff: ["sbwilliams"]
   Thursday:
      - time: ['12:00', '14:00']
        staff: ["sbwilliams"]
   Friday:
-     - time: ['13:30', '15:30']
+     - time: ['13:30', '16:30']
        staff: ["sbwilliams"]
   Saturday:
   Sunday:
