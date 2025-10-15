@@ -6,9 +6,9 @@ regular:
   Wednesday:
     - ['9:00', '18:00']
   Thursday:
-    - ['9:00', '19:00']
-  Friday:
     - ['9:00', '20:00']
+  Friday:
+    - ['9:00', '19:00']
   Saturday:
     - ['12:00', '18:00']
   Sunday: null
