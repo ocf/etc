@@ -38,7 +38,7 @@ staff-hours:
      - time: ['12:00', '14:00']
        staff: ["sbwilliams"]
   Friday:
-     - time: ['13:30', '16:30']
+     - time: ['13:30', '15:30']
        staff: ["sbwilliams"]
   Saturday:
   Sunday:
