@@ -427,4 +427,6 @@ holidays:
     reason: Labor Day
   - date: 2025-11-08
     reason: Closed For BMT Event
+  - date: 2025-11-11
+    reason: Veteran's Day
 
