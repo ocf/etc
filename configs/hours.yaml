@@ -431,4 +431,34 @@ holidays:
     reason: MLK Building Closure # Per campus announcement
   - date: 2025-11-11
     reason: Veteran's Day
+  - date: 2025-11-26
+    reason: Thanksgiving Break
+  - date: 2025-11-27
+    reason: Thanksgiving Break
+  - date: 2025-11-28
+    reason: Thanksgiving Break
+  - date: 2025-11-29
+    reason: Thanksgiving Break
+  - date: [2025-12-08, 2025-12-09]
+    reason: RRR Week Expansion
+    hours:
+      - ['9:00', '22:00']
+  - date: [2025-12-11, 2025-12-12]
+    reason: RRR Week Expansion
+    hours:
+      - ['9:00', '22:00']
+  - date: 2025-12-13
+    reason: RRR Week Saturday Hours
+    hours:
+      - ['10:00', '18:00']
+  - date: [2025-12-15, 2025-12-18]
+    reason: Finals Week Expansion
+    hours:
+      - ['09:00', '20:00']
+  - date: 2025-12-19
+    reason: Finals Week Friday Hours
+    hours:
+      - ['09:00', '17:00']
+  - date: [2025-12-20, 2026-01-20]
+    reason: Summer Break
 
