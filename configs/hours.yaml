@@ -431,13 +431,7 @@ holidays:
     reason: MLK Building Closure # Per campus announcement
   - date: 2025-11-11
     reason: Veteran's Day
-  - date: 2025-11-26
-    reason: Thanksgiving Break
-  - date: 2025-11-27
-    reason: Thanksgiving Break
-  - date: 2025-11-28
-    reason: Thanksgiving Break
-  - date: 2025-11-29
+  - date: [2025-11-26, 2025-11-29]
     reason: Thanksgiving Break
   - date: [2025-12-08, 2025-12-09]
     reason: RRR Week Expansion
