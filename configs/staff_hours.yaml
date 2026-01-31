@@ -60,4 +60,6 @@ staff-positions:
    position: "Finance Head"
  - username: "sbwilliams"
    position: "Site Manager"
+ - username: "ericgu"
+   position: "Staff Member"
 # vim: set expandtab:ts=4:sw=4
