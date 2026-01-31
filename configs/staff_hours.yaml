@@ -26,18 +26,20 @@
 
 staff-hours:
   Monday:
+     #- time: ['11:00', '12:00']
+     #  staff: ["sbwilliams"]
   Tuesday:
-   - time: ['14:00', '16:00']
-     staff: ["ericgu"]
+     #- time: ['12:00', '14:00']
+     #  staff: ["sbwilliams"]
   Wednesday:
-   - time: ['12:00', '14:00']
-     staff: ["ericgu"]
+     #- time: ['11:00', '12:00']
+     #  staff: ["sbwilliams"]
   Thursday:
-   - time: ['14:00', '16:00']
-     staff: ["ericgu"]
+     #- time: ['12:00', '14:00']
+     #  staff: ["sbwilliams"]
   Friday:
-   - time: ['12:00', '14:00']
-     staff: ["ericgu"]
+     #- time: ['13:30', '15:30']
+     #  staff: ["sbwilliams"]
   Saturday:
   Sunday:
 
