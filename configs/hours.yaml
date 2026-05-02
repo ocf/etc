@@ -10,7 +10,7 @@ regular:
   Friday:
     - ['9:00', '19:00']
   Saturday:
-    - ['12:00', '18:00']
+    - ['10:00', '18:00']
   Sunday: null
 holidays:
 # Do not specify hours field if we are closed for the day
