@@ -26,18 +26,16 @@
 
 staff-hours:
   Monday:
-  Tuesday:
    - time: ['14:00', '16:00']
      staff: ["ericgu"]
+  Tuesday:
   Wednesday:
-   - time: ['12:00', '14:00']
+   - time: ['15:00', '18:30']
      staff: ["ericgu"]
   Thursday:
-   - time: ['14:00', '16:00']
+   - time: ['16:00', '20:30']
      staff: ["ericgu"]
   Friday:
-   - time: ['12:00', '14:00']
-     staff: ["ericgu"]
   Saturday:
   Sunday:
 
