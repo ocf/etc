@@ -1,6 +1,7 @@
 /.cache
 /.tox
 /venv
+/.venv
 __pycache__/
 
 # Devenv

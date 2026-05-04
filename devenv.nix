@@ -16,11 +16,6 @@
     uv.enable = true;
   };
 
-  scripts.hello.exec = ''
-    echo hello from $GREET
-  '';
-
-  # https://devenv.sh/basics/
   enterShell = ''
     echo successfully entered ocf/etc devenv
     python --version
