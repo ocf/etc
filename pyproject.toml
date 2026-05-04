@@ -1,0 +1,20 @@
+[project]
+name = "ocf-etc"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "jinja2>=3",
+    "jsonschema",
+    "ocflib",
+    "pre-commit>=3",
+    "pyfakefs>=5",
+    "pytest",
+    "pyyaml",
+    "requests>=2.28",
+    "setuptools>=65",
+    "urllib3>=2",
+    "virtualenv>=20.14",
+]
