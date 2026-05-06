@@ -30,7 +30,7 @@ staff-hours:
      staff: ["ericgu"]
   Tuesday:
   Wednesday:
-   - time: ['15:00', '18:30']
+   - time: ['17:00', '18:30']
      staff: ["ericgu"]
   Thursday:
    - time: ['16:00', '20:30']
