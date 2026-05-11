@@ -46,3 +46,11 @@ holidays:
     reason: RRR Week Expansion
     hours:
       - ['09:00', '22:00']
+  - date: [2026-05-11, 2026-05-14]
+    reason: Finals Week Expansion
+    hours:
+      - ['09:00', '20:00']
+  - date: 2026-05-15
+    reason: Finals Week Friday Hours
+    hours:
+      - ['09:00', '17:00']
