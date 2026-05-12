@@ -26,15 +26,9 @@
 
 staff-hours:
   Monday:
-   - time: ['14:00', '16:00']
-     staff: ["ericgu"]
   Tuesday:
   Wednesday:
-   - time: ['17:00', '18:30']
-     staff: ["ericgu"]
   Thursday:
-   - time: ['16:00', '20:30']
-     staff: ["ericgu"]
   Friday:
   Saturday:
   Sunday:
