@@ -54,5 +54,5 @@ holidays:
     reason: Finals Week Friday Hours
     hours:
       - ['09:00', '17:00']
-  - date: [2026-05-16, 2026-08-25]
+  - date: [2026-05-16, 2026-08-28]
     reason: Summer Break
