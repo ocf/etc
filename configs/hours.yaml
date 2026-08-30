@@ -2,15 +2,15 @@ regular:
   Monday:
     - ['9:00', '20:00']
   Tuesday:
-    - ['9:00', '19:00']
+    - ['9:00', '20:00']
   Wednesday:
-    - ['9:00', '18:30']
+    - ['9:00', '18:00']
   Thursday:
     - ['9:00', '20:00']
   Friday:
-    - ['9:00', '19:00']
+    - ['9:00', '20:00']
   Saturday:
-    - ['10:00', '18:00']
+    - ['12:00', '18:00']
   Sunday: null
 holidays:
 # Do not specify hours field if we are closed for the day
