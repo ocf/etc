@@ -56,3 +56,5 @@ holidays:
       - ['09:00', '17:00']
   - date: [2026-05-16, 2026-08-30]
     reason: Summer Break
+  - date: 2026-09-07
+    reason: Labor Day
