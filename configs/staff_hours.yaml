@@ -37,6 +37,7 @@ staff-hours:
   Thursday:
    - time: ['11:00', '13:00']
      staff: ["ericgu"]
+     cancelled: true
   Friday:
   Saturday:
   Sunday:
