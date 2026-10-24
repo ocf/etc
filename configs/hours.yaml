@@ -58,3 +58,7 @@ holidays:
     reason: Summer Break
   - date: 2026-09-07
     reason: Labor Day
+  - date: 2026-10-24
+    reason: Early Close
+    hours:
+      - ['12:00', '14:00']
