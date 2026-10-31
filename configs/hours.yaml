@@ -62,3 +62,5 @@ holidays:
     reason: Early Close
     hours:
       - ['12:00', '14:00']
+  - date: 2026-11-11
+    reason: Veteran's Day
