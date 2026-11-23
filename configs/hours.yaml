@@ -64,5 +64,9 @@ holidays:
       - ['12:00', '14:00']
   - date: 2026-11-11
     reason: Veteran's Day
+  - date: 2026-11-24
+    reason: Special Hours
+    hours:
+      - ['09:00', '18:00']
   - date: [2026-11-25, 2026-11-28]
     reason: Thanksgiving Break
